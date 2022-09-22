@@ -1,0 +1,7751 @@
+[ {
+  "from" : "YUL",
+  "to" : "BQC",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "314",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 22, 15 ],
+  "travelTimeMinutes" : 195,
+  "aircraft" : "BUS"
+}, {
+  "from" : "CDG",
+  "to" : "BOS",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "322",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 30 ],
+  "travelTimeMinutes" : 450,
+  "aircraft" : "789"
+}, {
+  "from" : "BOS",
+  "to" : "AMS",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "3607*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 7, 50 ],
+  "travelTimeMinutes" : 410,
+  "aircraft" : "339"
+}, {
+  "from" : "TLS",
+  "to" : "ORY",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "6142",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 10 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "321"
+}, {
+  "from" : "TLS",
+  "to" : "ORY",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "6145",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "319"
+}, {
+  "from" : "GRU",
+  "to" : "AEP",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "1243",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 175,
+  "aircraft" : "73M"
+}, {
+  "from" : "PUJ",
+  "to" : "EZE",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "1327",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 3, 50 ],
+  "travelTimeMinutes" : 470,
+  "aircraft" : "73M"
+}, {
+  "from" : "COR",
+  "to" : "SLA",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "1504",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 25 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "738"
+}, {
+  "from" : "FCO",
+  "to" : "PMO",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1789*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 10 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "32S"
+}, {
+  "from" : "PMO",
+  "to" : "FCO",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1789*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 10 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "32S"
+}, {
+  "from" : "FCO",
+  "to" : "LIN",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "2056*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 10 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "32S"
+}, {
+  "from" : "LIN",
+  "to" : "FCO",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "2056*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 10 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "32S"
+}, {
+  "from" : "FCO",
+  "to" : "LIN",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "2063*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 10 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "319"
+}, {
+  "from" : "LIN",
+  "to" : "FCO",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "2063*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 10 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "319"
+}, {
+  "from" : "YXT",
+  "to" : "YVR",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "9355*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 34 ],
+  "travelTimeMinutes" : 94,
+  "aircraft" : "DH4"
+}, {
+  "from" : "ATL",
+  "to" : "GRU",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "105",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 5, 40 ],
+  "travelTimeMinutes" : 580,
+  "aircraft" : "333"
+}, {
+  "from" : "SAN",
+  "to" : "SEA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1334",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 22, 14 ],
+  "travelTimeMinutes" : 194,
+  "aircraft" : "738"
+}, {
+  "from" : "SNA",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1705",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "223"
+}, {
+  "from" : "JFK",
+  "to" : "SDQ",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1943",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 22, 58 ],
+  "travelTimeMinutes" : 238,
+  "aircraft" : "739"
+}, {
+  "from" : "BOS",
+  "to" : "AMS",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "258",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 7, 50 ],
+  "travelTimeMinutes" : 410,
+  "aircraft" : "339"
+}, {
+  "from" : "PHL",
+  "to" : "DTW",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "393",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 45 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "320"
+}, {
+  "from" : "ABQ",
+  "to" : "LAX",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4051",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 12 ],
+  "travelTimeMinutes" : 132,
+  "aircraft" : "E7W"
+}, {
+  "from" : "LGA",
+  "to" : "CLT",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4889",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 17 ],
+  "travelTimeMinutes" : 137,
+  "aircraft" : "CR9"
+}, {
+  "from" : "DCA",
+  "to" : "LGA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5620",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 29 ],
+  "travelTimeMinutes" : 89,
+  "aircraft" : "E70"
+}, {
+  "from" : "LGA",
+  "to" : "DCA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5620",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 29 ],
+  "travelTimeMinutes" : 89,
+  "aircraft" : "E70"
+}, {
+  "from" : "LGA",
+  "to" : "BOS",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5766",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 28 ],
+  "travelTimeMinutes" : 88,
+  "aircraft" : "E75"
+}, {
+  "from" : "LGA",
+  "to" : "BOS",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5854",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 34 ],
+  "travelTimeMinutes" : 94,
+  "aircraft" : "E75"
+}, {
+  "from" : "CDG",
+  "to" : "BOS",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "8514*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 30 ],
+  "travelTimeMinutes" : 450,
+  "aircraft" : "789"
+}, {
+  "from" : "SBW",
+  "to" : "KUL",
+  "airlineDesignator" : "GA",
+  "flightNumber" : "9316*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "738"
+}, {
+  "from" : "HND",
+  "to" : "CTS",
+  "airlineDesignator" : "GA",
+  "flightNumber" : "9420*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 30 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "789"
+}, {
+  "from" : "HND",
+  "to" : "FUK",
+  "airlineDesignator" : "GA",
+  "flightNumber" : "9514*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 55 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "789"
+}, {
+  "from" : "PUS",
+  "to" : "GMP",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "1122",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 0 ],
+  "travelTimeMinutes" : 60,
+  "aircraft" : "223"
+}, {
+  "from" : "YVR",
+  "to" : "SEA",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "6155*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 19, 58 ],
+  "travelTimeMinutes" : 58,
+  "aircraft" : "E75"
+}, {
+  "from" : "BOS",
+  "to" : "AMS",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "6016*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 7, 50 ],
+  "travelTimeMinutes" : 410,
+  "aircraft" : "339"
+}, {
+  "from" : "RUH",
+  "to" : "JED",
+  "airlineDesignator" : "KQ",
+  "flightNumber" : "5794*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 100,
+  "aircraft" : "330"
+}, {
+  "from" : "JED",
+  "to" : "DMM",
+  "airlineDesignator" : "KQ",
+  "flightNumber" : "5938*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "321"
+}, {
+  "from" : "NBO",
+  "to" : "MBA",
+  "airlineDesignator" : "KQ",
+  "flightNumber" : "612",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 0 ],
+  "travelTimeMinutes" : 60,
+  "aircraft" : "E90"
+}, {
+  "from" : "KIS",
+  "to" : "NBO",
+  "airlineDesignator" : "KQ",
+  "flightNumber" : "671",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 19, 50 ],
+  "travelTimeMinutes" : 50,
+  "aircraft" : "E90"
+}, {
+  "from" : "ZNZ",
+  "to" : "NBO",
+  "airlineDesignator" : "KQ",
+  "flightNumber" : "6715*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 100,
+  "aircraft" : "AT4"
+}, {
+  "from" : "DOH",
+  "to" : "BEY",
+  "airlineDesignator" : "ME",
+  "flightNumber" : "437",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 175,
+  "aircraft" : "320"
+}, {
+  "from" : "TSN",
+  "to" : "XIY",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8239",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "738"
+}, {
+  "from" : "XMN",
+  "to" : "SHA",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8545",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 50 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "738"
+}, {
+  "from" : "MAD",
+  "to" : "AMS",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "9558*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 40 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "73G"
+}, {
+  "from" : "XIY",
+  "to" : "KHN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2235",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 45 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "319"
+}, {
+  "from" : "TYN",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2410",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 10 ],
+  "travelTimeMinutes" : 130,
+  "aircraft" : "73L"
+}, {
+  "from" : "WUH",
+  "to" : "ZYI",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2635",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 35 ],
+  "travelTimeMinutes" : 95,
+  "aircraft" : "73H"
+}, {
+  "from" : "NKG",
+  "to" : "XNN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2879",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 170,
+  "aircraft" : "320"
+}, {
+  "from" : "CZX",
+  "to" : "XMN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2928",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 50 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "320"
+}, {
+  "from" : "CGQ",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "3494*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 23, 45 ],
+  "travelTimeMinutes" : 285,
+  "aircraft" : "32A"
+}, {
+  "from" : "SHA",
+  "to" : "PEK",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5123",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "333"
+}, {
+  "from" : "SHA",
+  "to" : "PEK",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5124",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "77W"
+}, {
+  "from" : "HSN",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5206",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 5 ],
+  "travelTimeMinutes" : 65,
+  "aircraft" : "320"
+}, {
+  "from" : "SZX",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5352",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 20 ],
+  "travelTimeMinutes" : 140,
+  "aircraft" : "332"
+}, {
+  "from" : "SHA",
+  "to" : "SZX",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5355",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 25 ],
+  "travelTimeMinutes" : 145,
+  "aircraft" : "321"
+}, {
+  "from" : "SZX",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5355",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 25 ],
+  "travelTimeMinutes" : 145,
+  "aircraft" : "321"
+}, {
+  "from" : "TYN",
+  "to" : "TAO",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5669",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 55 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "737"
+}, {
+  "from" : "PVG",
+  "to" : "TYN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5691",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 150,
+  "aircraft" : "320"
+}, {
+  "from" : "DLC",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6336",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 10 ],
+  "travelTimeMinutes" : 130,
+  "aircraft" : "320"
+}, {
+  "from" : "YCU",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6478",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "320"
+}, {
+  "from" : "URC",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6914",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 23, 50 ],
+  "travelTimeMinutes" : 290,
+  "aircraft" : "320"
+}, {
+  "from" : "NGB",
+  "to" : "TPE",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8914*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 45 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "32Q"
+}, {
+  "from" : "SWA",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "9064",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 50 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "EQV"
+}, {
+  "from" : "DLC",
+  "to" : "TXN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "9752",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 150,
+  "aircraft" : "737"
+}, {
+  "from" : "NKG",
+  "to" : "CAN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "9767",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 25 ],
+  "travelTimeMinutes" : 145,
+  "aircraft" : "320"
+}, {
+  "from" : "RUH",
+  "to" : "JED",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1044",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 100,
+  "aircraft" : "330"
+}, {
+  "from" : "JED",
+  "to" : "DMM",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1124",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "321"
+}, {
+  "from" : "JED",
+  "to" : "HAS",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1334",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "320"
+}, {
+  "from" : "RUH",
+  "to" : "GIZ",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1785",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 50 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "320"
+}, {
+  "from" : "IAD",
+  "to" : "RUH",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "38",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 14, 35 ],
+  "travelTimeMinutes" : 755,
+  "aircraft" : "773"
+}, {
+  "from" : "MAD",
+  "to" : "BIO",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "6793*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 0 ],
+  "travelTimeMinutes" : 60,
+  "aircraft" : "73H"
+}, {
+  "from" : "MAD",
+  "to" : "OPO",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "6974*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 19, 15 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "E90"
+}, {
+  "from" : "MAD",
+  "to" : "AMS",
+  "airlineDesignator" : "UX",
+  "flightNumber" : "1094",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 40 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "73H"
+}, {
+  "from" : "MAD",
+  "to" : "OPO",
+  "airlineDesignator" : "UX",
+  "flightNumber" : "1141",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 19, 15 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "E90"
+}, {
+  "from" : "TFN",
+  "to" : "LPA",
+  "airlineDesignator" : "UX",
+  "flightNumber" : "2118*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 19, 30 ],
+  "travelTimeMinutes" : 30,
+  "aircraft" : "AT7"
+}, {
+  "from" : "MAD",
+  "to" : "AGP",
+  "airlineDesignator" : "UX",
+  "flightNumber" : "5047",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 15 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "E90"
+}, {
+  "from" : "MAD",
+  "to" : "PMI",
+  "airlineDesignator" : "UX",
+  "flightNumber" : "6097",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "73H"
+}, {
+  "from" : "MAD",
+  "to" : "BIO",
+  "airlineDesignator" : "UX",
+  "flightNumber" : "7159",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 0 ],
+  "travelTimeMinutes" : 60,
+  "aircraft" : "73H"
+}, {
+  "from" : "DAD",
+  "to" : "SGN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "135",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 30 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "321"
+}, {
+  "from" : "HUI",
+  "to" : "SGN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "1379",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 100,
+  "aircraft" : "321"
+}, {
+  "from" : "SGN",
+  "to" : "HAN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "219",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "787"
+}, {
+  "from" : "SGN",
+  "to" : "HAN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "258",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 10 ],
+  "travelTimeMinutes" : 130,
+  "aircraft" : "787"
+}, {
+  "from" : "PQC",
+  "to" : "SGN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "6522",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 20, 15 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "320"
+}, {
+  "from" : "SGN",
+  "to" : "HPH",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "7174",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 0 ],
+  "arrivalTime" : [ 21, 5 ],
+  "travelTimeMinutes" : 125,
+  "aircraft" : "321"
+}, {
+  "from" : "TLH",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2191",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 1 ],
+  "arrivalTime" : [ 20, 13 ],
+  "travelTimeMinutes" : 72,
+  "aircraft" : "717"
+}, {
+  "from" : "CDG",
+  "to" : "BSL",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "1393*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "E90"
+}, {
+  "from" : "MDZ",
+  "to" : "AEP",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "1426",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "738"
+}, {
+  "from" : "SLA",
+  "to" : "AEP",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "1451",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 5 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "738"
+}, {
+  "from" : "CAG",
+  "to" : "FCO",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1501*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 20, 10 ],
+  "travelTimeMinutes" : 65,
+  "aircraft" : "32S"
+}, {
+  "from" : "AHO",
+  "to" : "LIN",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1601*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 20, 10 ],
+  "travelTimeMinutes" : 65,
+  "aircraft" : "32S"
+}, {
+  "from" : "FCO",
+  "to" : "PMO",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1794*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "320"
+}, {
+  "from" : "PMO",
+  "to" : "FCO",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1794*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "320"
+}, {
+  "from" : "LCY",
+  "to" : "LIN",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "219*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "E90"
+}, {
+  "from" : "KIX",
+  "to" : "TPE",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "173",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 5 ],
+  "travelTimeMinutes" : 180,
+  "aircraft" : "333"
+}, {
+  "from" : "CNX",
+  "to" : "BKK",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "9850*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 20, 30 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "319"
+}, {
+  "from" : "LAS",
+  "to" : "SEA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2121",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 51 ],
+  "travelTimeMinutes" : 166,
+  "aircraft" : "738"
+}, {
+  "from" : "BOS",
+  "to" : "MCI",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5596",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 225,
+  "aircraft" : "E75"
+}, {
+  "from" : "TPA",
+  "to" : "LGA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "862",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 59 ],
+  "travelTimeMinutes" : 174,
+  "aircraft" : "319"
+}, {
+  "from" : "LGA",
+  "to" : "PBI",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "880",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 22, 12 ],
+  "travelTimeMinutes" : 187,
+  "aircraft" : "221"
+}, {
+  "from" : "PHX",
+  "to" : "SEA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "958",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 22, 29 ],
+  "travelTimeMinutes" : 204,
+  "aircraft" : "221"
+}, {
+  "from" : "GMP",
+  "to" : "CJU",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "1266",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 20, 15 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "333"
+}, {
+  "from" : "ICN",
+  "to" : "BKI",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "5761*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 23, 15 ],
+  "travelTimeMinutes" : 310,
+  "aircraft" : "738"
+}, {
+  "from" : "BER",
+  "to" : "AMS",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "6428*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 20, 35 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "73H"
+}, {
+  "from" : "ICN",
+  "to" : "HAN",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "679",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 285,
+  "aircraft" : "789"
+}, {
+  "from" : "LHR",
+  "to" : "AMS",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "1027",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 19, 25 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "295"
+}, {
+  "from" : "BER",
+  "to" : "AMS",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "1832",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 20, 35 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "73H"
+}, {
+  "from" : "CDG",
+  "to" : "BSL",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "2050*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "E90"
+}, {
+  "from" : "LCY",
+  "to" : "AMS",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "994",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "E90"
+}, {
+  "from" : "WUH",
+  "to" : "HRB",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8022",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 22, 15 ],
+  "travelTimeMinutes" : 190,
+  "aircraft" : "738"
+}, {
+  "from" : "HIA",
+  "to" : "JJN",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8192",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "738"
+}, {
+  "from" : "XIY",
+  "to" : "FOC",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8272",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 45 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "738"
+}, {
+  "from" : "CKG",
+  "to" : "HGH",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8416",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 130,
+  "aircraft" : "738"
+}, {
+  "from" : "XNN",
+  "to" : "XMN",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8628",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 0, 5 ],
+  "travelTimeMinutes" : 300,
+  "aircraft" : "738"
+}, {
+  "from" : "BER",
+  "to" : "AMS",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "9176*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 20, 35 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "73G"
+}, {
+  "from" : "HGH",
+  "to" : "TYN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5242",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 25 ],
+  "travelTimeMinutes" : 140,
+  "aircraft" : "737"
+}, {
+  "from" : "CTU",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5488",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 22, 0 ],
+  "travelTimeMinutes" : 175,
+  "aircraft" : "321"
+}, {
+  "from" : "PVG",
+  "to" : "HDG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5639",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 130,
+  "aircraft" : "320"
+}, {
+  "from" : "KHN",
+  "to" : "SHE",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6452",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 22, 5 ],
+  "travelTimeMinutes" : 180,
+  "aircraft" : "320"
+}, {
+  "from" : "BPE",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8374*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 20 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "738"
+}, {
+  "from" : "JNG",
+  "to" : "DSN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8742*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "737"
+}, {
+  "from" : "CGO",
+  "to" : "NGB",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "9896",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "320"
+}, {
+  "from" : "KGD",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1011",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 22, 45 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "32A"
+}, {
+  "from" : "SVO",
+  "to" : "SVX",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1418",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 23, 40 ],
+  "travelTimeMinutes" : 155,
+  "aircraft" : "73H"
+}, {
+  "from" : "JED",
+  "to" : "AHB",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1652",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "333"
+}, {
+  "from" : "RUH",
+  "to" : "TIF",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1905",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 20, 35 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "321"
+}, {
+  "from" : "CGK",
+  "to" : "JED",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "819",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 0, 25 ],
+  "travelTimeMinutes" : 560,
+  "aircraft" : "773"
+}, {
+  "from" : "DAD",
+  "to" : "HAN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "182",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 20, 25 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "321"
+}, {
+  "from" : "ICN",
+  "to" : "HAN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "3411*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 285,
+  "aircraft" : "789"
+}, {
+  "from" : "BKK",
+  "to" : "HAN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "612",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 5 ],
+  "arrivalTime" : [ 21, 10 ],
+  "travelTimeMinutes" : 125,
+  "aircraft" : "321"
+}, {
+  "from" : "GEG",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2270",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 6 ],
+  "arrivalTime" : [ 21, 54 ],
+  "travelTimeMinutes" : 108,
+  "aircraft" : "319"
+}, {
+  "from" : "SLC",
+  "to" : "GEG",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2270",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 6 ],
+  "arrivalTime" : [ 21, 54 ],
+  "travelTimeMinutes" : 108,
+  "aircraft" : "319"
+}, {
+  "from" : "SEA",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "926",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 6 ],
+  "arrivalTime" : [ 22, 2 ],
+  "travelTimeMinutes" : 116,
+  "aircraft" : "739"
+}, {
+  "from" : "SLC",
+  "to" : "SEA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "926",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 6 ],
+  "arrivalTime" : [ 22, 2 ],
+  "travelTimeMinutes" : 116,
+  "aircraft" : "739"
+}, {
+  "from" : "YYZ",
+  "to" : "MSP",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3563",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 7 ],
+  "arrivalTime" : [ 20, 28 ],
+  "travelTimeMinutes" : 141,
+  "aircraft" : "CR9"
+}, {
+  "from" : "BTR",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1541",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 8 ],
+  "arrivalTime" : [ 21, 41 ],
+  "travelTimeMinutes" : 93,
+  "aircraft" : "717"
+}, {
+  "from" : "MEM",
+  "to" : "LAX",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "697",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 8 ],
+  "arrivalTime" : [ 21, 14 ],
+  "travelTimeMinutes" : 246,
+  "aircraft" : "321"
+}, {
+  "from" : "CDG",
+  "to" : "BES",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "7733",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 30 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "321"
+}, {
+  "from" : "CDG",
+  "to" : "CFE",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "7757*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "E90"
+}, {
+  "from" : "CFE",
+  "to" : "CDG",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "7757*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "E90"
+}, {
+  "from" : "AEP",
+  "to" : "SDE",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "1490",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 55 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "73M"
+}, {
+  "from" : "MDZ",
+  "to" : "EZE",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "1534",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 50 ],
+  "travelTimeMinutes" : 100,
+  "aircraft" : "E90"
+}, {
+  "from" : "SUF",
+  "to" : "FCO",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1170*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 25 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "320"
+}, {
+  "from" : "FCO",
+  "to" : "GOA",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1392*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 15 ],
+  "travelTimeMinutes" : 65,
+  "aircraft" : "319"
+}, {
+  "from" : "GOA",
+  "to" : "FCO",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1392*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 15 ],
+  "travelTimeMinutes" : 65,
+  "aircraft" : "319"
+}, {
+  "from" : "LIN",
+  "to" : "BRI",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1636*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 35 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "319"
+}, {
+  "from" : "FCO",
+  "to" : "CTA",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1734*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 35 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "320"
+}, {
+  "from" : "OLB",
+  "to" : "LIN",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1929*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 15 ],
+  "travelTimeMinutes" : 65,
+  "aircraft" : "32S"
+}, {
+  "from" : "CDG",
+  "to" : "LIN",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "358*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "319"
+}, {
+  "from" : "LIN",
+  "to" : "CDG",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "358*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "319"
+}, {
+  "from" : "GVA",
+  "to" : "FCO",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "577*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "32S"
+}, {
+  "from" : "FUK",
+  "to" : "TPE",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "129",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 35 ],
+  "travelTimeMinutes" : 145,
+  "aircraft" : "738"
+}, {
+  "from" : "TAK",
+  "to" : "TPE",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "179",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 55 ],
+  "travelTimeMinutes" : 165,
+  "aircraft" : "32Q"
+}, {
+  "from" : "HKT",
+  "to" : "BKK",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "9746*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "320"
+}, {
+  "from" : "BOS",
+  "to" : "AUS",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1181",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 22, 40 ],
+  "travelTimeMinutes" : 270,
+  "aircraft" : "221"
+}, {
+  "from" : "FLL",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1480",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 7 ],
+  "travelTimeMinutes" : 117,
+  "aircraft" : "757"
+}, {
+  "from" : "STI",
+  "to" : "JFK",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1969",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 22, 53 ],
+  "travelTimeMinutes" : 223,
+  "aircraft" : "739"
+}, {
+  "from" : "VPS",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2095",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 29 ],
+  "travelTimeMinutes" : 79,
+  "aircraft" : "738"
+}, {
+  "from" : "SFO",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2276",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 57 ],
+  "travelTimeMinutes" : 107,
+  "aircraft" : "221"
+}, {
+  "from" : "DCA",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2936",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 8 ],
+  "travelTimeMinutes" : 118,
+  "aircraft" : "321"
+}, {
+  "from" : "LGA",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "366",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 25 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "320"
+}, {
+  "from" : "LAX",
+  "to" : "ABQ",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3826",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 22, 8 ],
+  "travelTimeMinutes" : 118,
+  "aircraft" : "E7W"
+}, {
+  "from" : "MCO",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "866",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "752"
+}, {
+  "from" : "HND",
+  "to" : "NGO",
+  "airlineDesignator" : "GA",
+  "flightNumber" : "9168*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 10 ],
+  "travelTimeMinutes" : 60,
+  "aircraft" : "773"
+}, {
+  "from" : "CDG",
+  "to" : "CFE",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "2029*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "E90"
+}, {
+  "from" : "CFE",
+  "to" : "CDG",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "2029*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "E90"
+}, {
+  "from" : "CDG",
+  "to" : "BES",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "2339*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 30 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "321"
+}, {
+  "from" : "CDG",
+  "to" : "CFE",
+  "airlineDesignator" : "KQ",
+  "flightNumber" : "3211*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "E90"
+}, {
+  "from" : "CFE",
+  "to" : "CDG",
+  "airlineDesignator" : "KQ",
+  "flightNumber" : "3211*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "E90"
+}, {
+  "from" : "HRB",
+  "to" : "XMN",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8094",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 0, 25 ],
+  "travelTimeMinutes" : 315,
+  "aircraft" : "738"
+}, {
+  "from" : "CSX",
+  "to" : "TYN",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8195",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 125,
+  "aircraft" : "738"
+}, {
+  "from" : "LYG",
+  "to" : "FOC",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8758",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 10 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "738"
+}, {
+  "from" : "KMG",
+  "to" : "INC",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2186",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "320"
+}, {
+  "from" : "XIY",
+  "to" : "WUX",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2968",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 140,
+  "aircraft" : "320"
+}, {
+  "from" : "BHY",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5266",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "320"
+}, {
+  "from" : "CKG",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5494",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 35 ],
+  "travelTimeMinutes" : 145,
+  "aircraft" : "319"
+}, {
+  "from" : "JMU",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5536",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 0, 25 ],
+  "travelTimeMinutes" : 315,
+  "aircraft" : "319"
+}, {
+  "from" : "KMG",
+  "to" : "SYX",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5771",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 5 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "737"
+}, {
+  "from" : "PVG",
+  "to" : "BHY",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6619",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 22, 10 ],
+  "travelTimeMinutes" : 180,
+  "aircraft" : "320"
+}, {
+  "from" : "HFE",
+  "to" : "SHE",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6658",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 140,
+  "aircraft" : "320"
+}, {
+  "from" : "SHA",
+  "to" : "YNT",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6951",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "320"
+}, {
+  "from" : "LED",
+  "to" : "KGD",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "6331",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 130,
+  "aircraft" : "SU9"
+}, {
+  "from" : "EVN",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "6608",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 22, 15 ],
+  "travelTimeMinutes" : 245,
+  "aircraft" : "SU9"
+}, {
+  "from" : "EVN",
+  "to" : "AER",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "6820",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 19, 30 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "SU9"
+}, {
+  "from" : "DMM",
+  "to" : "RUH",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1163",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 15 ],
+  "travelTimeMinutes" : 65,
+  "aircraft" : "321"
+}, {
+  "from" : "RUH",
+  "to" : "DMM",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1163",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 15 ],
+  "travelTimeMinutes" : 65,
+  "aircraft" : "321"
+}, {
+  "from" : "CMN",
+  "to" : "JED",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "372",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 3, 10 ],
+  "travelTimeMinutes" : 360,
+  "aircraft" : "789"
+}, {
+  "from" : "MAD",
+  "to" : "LCG",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "6127*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "73H"
+}, {
+  "from" : "MAD",
+  "to" : "LIS",
+  "airlineDesignator" : "UX",
+  "flightNumber" : "1157",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 19, 30 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "73H"
+}, {
+  "from" : "FRA",
+  "to" : "MAD",
+  "airlineDesignator" : "UX",
+  "flightNumber" : "1506",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 165,
+  "aircraft" : "73H"
+}, {
+  "from" : "MAD",
+  "to" : "LCG",
+  "airlineDesignator" : "UX",
+  "flightNumber" : "7237",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "73H"
+}, {
+  "from" : "PQC",
+  "to" : "HAN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "1238",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 25 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "321"
+}, {
+  "from" : "THD",
+  "to" : "SGN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "1279",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 20 ],
+  "travelTimeMinutes" : 130,
+  "aircraft" : "321"
+}, {
+  "from" : "CXR",
+  "to" : "HAN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "1558",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 21, 10 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "321"
+}, {
+  "from" : "DAD",
+  "to" : "HAN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "156",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 30 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "321"
+}, {
+  "from" : "SGN",
+  "to" : "PQC",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "6517",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 10 ],
+  "arrivalTime" : [ 20, 45 ],
+  "travelTimeMinutes" : 95,
+  "aircraft" : "320"
+}, {
+  "from" : "IAH",
+  "to" : "MSP",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2587",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 11 ],
+  "arrivalTime" : [ 21, 54 ],
+  "travelTimeMinutes" : 163,
+  "aircraft" : "319"
+}, {
+  "from" : "DFW",
+  "to" : "LGA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "676",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 11 ],
+  "arrivalTime" : [ 23, 43 ],
+  "travelTimeMinutes" : 212,
+  "aircraft" : "221"
+}, {
+  "from" : "LGA",
+  "to" : "DFW",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "676",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 11 ],
+  "arrivalTime" : [ 23, 43 ],
+  "travelTimeMinutes" : 212,
+  "aircraft" : "221"
+}, {
+  "from" : "PIT",
+  "to" : "MSP",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3535",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 12 ],
+  "arrivalTime" : [ 20, 33 ],
+  "travelTimeMinutes" : 141,
+  "aircraft" : "E7W"
+}, {
+  "from" : "BDL",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2391",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 14 ],
+  "arrivalTime" : [ 21, 46 ],
+  "travelTimeMinutes" : 152,
+  "aircraft" : "739"
+}, {
+  "from" : "ORY",
+  "to" : "MRS",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "6027",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "318"
+}, {
+  "from" : "ORY",
+  "to" : "MRS",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "6028",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 20, 30 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "318"
+}, {
+  "from" : "TRN",
+  "to" : "FCO",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1430*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 20, 35 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "319"
+}, {
+  "from" : "FCO",
+  "to" : "BRI",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1606*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 20, 25 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "32S"
+}, {
+  "from" : "FCO",
+  "to" : "BDS",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1634*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 20, 30 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "32S"
+}, {
+  "from" : "NCE",
+  "to" : "FCO",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "355*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 20, 30 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "319"
+}, {
+  "from" : "CTS",
+  "to" : "KHH",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "135",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 22, 45 ],
+  "travelTimeMinutes" : 270,
+  "aircraft" : "738"
+}, {
+  "from" : "LGA",
+  "to" : "ORD",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2613",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 22, 38 ],
+  "travelTimeMinutes" : 143,
+  "aircraft" : "221"
+}, {
+  "from" : "ORD",
+  "to" : "LGA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2613",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 22, 38 ],
+  "travelTimeMinutes" : 143,
+  "aircraft" : "221"
+}, {
+  "from" : "GRR",
+  "to" : "MSP",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2632",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 19, 53 ],
+  "travelTimeMinutes" : 98,
+  "aircraft" : "321"
+}, {
+  "from" : "JFK",
+  "to" : "PDX",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2656",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 22, 40 ],
+  "travelTimeMinutes" : 385,
+  "aircraft" : "739"
+}, {
+  "from" : "SMF",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3625",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 21, 51 ],
+  "travelTimeMinutes" : 96,
+  "aircraft" : "E7W"
+}, {
+  "from" : "CMH",
+  "to" : "MSP",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3741",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 20, 21 ],
+  "travelTimeMinutes" : 126,
+  "aircraft" : "E7W"
+}, {
+  "from" : "SEA",
+  "to" : "YYC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "7284*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 95,
+  "aircraft" : "DH4"
+}, {
+  "from" : "PUS",
+  "to" : "CJU",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "1027",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 20, 15 ],
+  "travelTimeMinutes" : 60,
+  "aircraft" : "7M8"
+}, {
+  "from" : "GMP",
+  "to" : "CJU",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "1296",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 20, 25 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "223"
+}, {
+  "from" : "LHR",
+  "to" : "AMS",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "1030",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 21, 25 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "295"
+}, {
+  "from" : "CAI",
+  "to" : "BEY",
+  "airlineDesignator" : "ME",
+  "flightNumber" : "307",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "320"
+}, {
+  "from" : "CKG",
+  "to" : "TAO",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8029",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 21, 40 ],
+  "travelTimeMinutes" : 145,
+  "aircraft" : "738"
+}, {
+  "from" : "SHE",
+  "to" : "FOC",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8078",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 23, 55 ],
+  "travelTimeMinutes" : 280,
+  "aircraft" : "738"
+}, {
+  "from" : "CGQ",
+  "to" : "XMN",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8298",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 23, 0 ],
+  "travelTimeMinutes" : 225,
+  "aircraft" : "738"
+}, {
+  "from" : "JJN",
+  "to" : "ZUH",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8343",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "738"
+}, {
+  "from" : "FOC",
+  "to" : "SHE",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8846",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 22, 20 ],
+  "travelTimeMinutes" : 185,
+  "aircraft" : "738"
+}, {
+  "from" : "BHY",
+  "to" : "CSX",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2674",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 21, 5 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "320"
+}, {
+  "from" : "SYD",
+  "to" : "AKL",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "4329*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 0, 20 ],
+  "travelTimeMinutes" : 185,
+  "aircraft" : "73H"
+}, {
+  "from" : "CSX",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5190",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "321"
+}, {
+  "from" : "NGB",
+  "to" : "CSX",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5284",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "320"
+}, {
+  "from" : "KMG",
+  "to" : "HFE",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5330",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 21, 45 ],
+  "travelTimeMinutes" : 150,
+  "aircraft" : "320"
+}, {
+  "from" : "KMG",
+  "to" : "HGH",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5548",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 22, 0 ],
+  "travelTimeMinutes" : 165,
+  "aircraft" : "321"
+}, {
+  "from" : "HET",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8362*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 155,
+  "aircraft" : "738"
+}, {
+  "from" : "DLC",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8626*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 21, 20 ],
+  "travelTimeMinutes" : 125,
+  "aircraft" : "73E"
+}, {
+  "from" : "PVG",
+  "to" : "DLC",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8626*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 21, 20 ],
+  "travelTimeMinutes" : 125,
+  "aircraft" : "73E"
+}, {
+  "from" : "UYN",
+  "to" : "DLC",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "9770",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "320"
+}, {
+  "from" : "SVO",
+  "to" : "KUF",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1604",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 22, 0 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "32A"
+}, {
+  "from" : "KHV",
+  "to" : "VVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "5601",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 20, 35 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "319"
+}, {
+  "from" : "LED",
+  "to" : "VKO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "6023",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 20, 45 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "SU9"
+}, {
+  "from" : "ARH",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "6336",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 21, 10 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "SU9"
+}, {
+  "from" : "KZN",
+  "to" : "LED",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "6598",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 21, 20 ],
+  "travelTimeMinutes" : 125,
+  "aircraft" : "319"
+}, {
+  "from" : "AJF",
+  "to" : "JED",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1383",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "320"
+}, {
+  "from" : "RUH",
+  "to" : "MED",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1465",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 20, 45 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "320"
+}, {
+  "from" : "TFN",
+  "to" : "SPC",
+  "airlineDesignator" : "UX",
+  "flightNumber" : "2105*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 19, 45 ],
+  "travelTimeMinutes" : 30,
+  "aircraft" : "AT7"
+}, {
+  "from" : "PMI",
+  "to" : "MAD",
+  "airlineDesignator" : "UX",
+  "flightNumber" : "6078",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "73H"
+}, {
+  "from" : "SGN",
+  "to" : "VII",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "1270",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 15 ],
+  "arrivalTime" : [ 21, 10 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "321"
+}, {
+  "from" : "LAX",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1024",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 16 ],
+  "arrivalTime" : [ 22, 9 ],
+  "travelTimeMinutes" : 113,
+  "aircraft" : "321"
+}, {
+  "from" : "SAN",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2491",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 16 ],
+  "arrivalTime" : [ 22, 14 ],
+  "travelTimeMinutes" : 118,
+  "aircraft" : "320"
+}, {
+  "from" : "MEX",
+  "to" : "BJX",
+  "airlineDesignator" : "AM",
+  "flightNumber" : "129",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 18 ],
+  "arrivalTime" : [ 20, 25 ],
+  "travelTimeMinutes" : 67,
+  "aircraft" : "E90"
+}, {
+  "from" : "TAP",
+  "to" : "MEX",
+  "airlineDesignator" : "AM",
+  "flightNumber" : "377",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 18 ],
+  "arrivalTime" : [ 21, 5 ],
+  "travelTimeMinutes" : 107,
+  "aircraft" : "E90"
+}, {
+  "from" : "PDX",
+  "to" : "SEA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4078",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 18 ],
+  "arrivalTime" : [ 20, 32 ],
+  "travelTimeMinutes" : 74,
+  "aircraft" : "E7W"
+}, {
+  "from" : "CLE",
+  "to" : "MSP",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3777",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 19 ],
+  "arrivalTime" : [ 20, 35 ],
+  "travelTimeMinutes" : 136,
+  "aircraft" : "E7W"
+}, {
+  "from" : "LGA",
+  "to" : "CLT",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4838",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 19 ],
+  "arrivalTime" : [ 21, 29 ],
+  "travelTimeMinutes" : 130,
+  "aircraft" : "CR9"
+}, {
+  "from" : "WAW",
+  "to" : "CDG",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "1246",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 35 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "32A"
+}, {
+  "from" : "CDG",
+  "to" : "MRS",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "7671",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 50 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "319"
+}, {
+  "from" : "MRS",
+  "to" : "CDG",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "7671",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 50 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "319"
+}, {
+  "from" : "ATL",
+  "to" : "LHR",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "9903*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 8, 40 ],
+  "travelTimeMinutes" : 500,
+  "aircraft" : "333"
+}, {
+  "from" : "IGR",
+  "to" : "AEP",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "1745",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "E90"
+}, {
+  "from" : "AHO",
+  "to" : "FCO",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1580*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 60,
+  "aircraft" : "32S"
+}, {
+  "from" : "PMO",
+  "to" : "LIN",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1790*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 55 ],
+  "travelTimeMinutes" : 95,
+  "aircraft" : "32S"
+}, {
+  "from" : "KUL",
+  "to" : "KCH",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "9434*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 10 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "738"
+}, {
+  "from" : "FUK",
+  "to" : "KMI",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "9939*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 5 ],
+  "travelTimeMinutes" : 45,
+  "aircraft" : "E70"
+}, {
+  "from" : "ATL",
+  "to" : "ECP",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1032",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 19, 31 ],
+  "travelTimeMinutes" : 71,
+  "aircraft" : "739"
+}, {
+  "from" : "ATL",
+  "to" : "TLH",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1219",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 21 ],
+  "travelTimeMinutes" : 61,
+  "aircraft" : "738"
+}, {
+  "from" : "ICN",
+  "to" : "SEA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "196",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 13, 35 ],
+  "travelTimeMinutes" : 615,
+  "aircraft" : "339"
+}, {
+  "from" : "AUS",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2370",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 43 ],
+  "travelTimeMinutes" : 143,
+  "aircraft" : "321"
+}, {
+  "from" : "LIT",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2410",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 19, 52 ],
+  "travelTimeMinutes" : 92,
+  "aircraft" : "717"
+}, {
+  "from" : "LAS",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2736",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 38 ],
+  "travelTimeMinutes" : 258,
+  "aircraft" : "753"
+}, {
+  "from" : "ATL",
+  "to" : "SEA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "302",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 53 ],
+  "travelTimeMinutes" : 333,
+  "aircraft" : "753"
+}, {
+  "from" : "ATL",
+  "to" : "OKC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3644",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 32 ],
+  "travelTimeMinutes" : 132,
+  "aircraft" : "CR9"
+}, {
+  "from" : "LGA",
+  "to" : "CHS",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4686",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 37 ],
+  "travelTimeMinutes" : 137,
+  "aircraft" : "CR9"
+}, {
+  "from" : "LGA",
+  "to" : "CLE",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4793",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 19 ],
+  "travelTimeMinutes" : 119,
+  "aircraft" : "CR9"
+}, {
+  "from" : "ATL",
+  "to" : "BQK",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5156",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 60,
+  "aircraft" : "CRJ"
+}, {
+  "from" : "ATL",
+  "to" : "ABY",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5337",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 21 ],
+  "travelTimeMinutes" : 61,
+  "aircraft" : "CRJ"
+}, {
+  "from" : "PWM",
+  "to" : "LGA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5361",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 55 ],
+  "travelTimeMinutes" : 95,
+  "aircraft" : "CR7"
+}, {
+  "from" : "LGA",
+  "to" : "BNA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5473",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 2 ],
+  "travelTimeMinutes" : 162,
+  "aircraft" : "CR9"
+}, {
+  "from" : "DCA",
+  "to" : "LGA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5821",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 47 ],
+  "travelTimeMinutes" : 87,
+  "aircraft" : "E75"
+}, {
+  "from" : "LGA",
+  "to" : "DCA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5821",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 47 ],
+  "travelTimeMinutes" : 87,
+  "aircraft" : "E75"
+}, {
+  "from" : "ATL",
+  "to" : "LHR",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5998*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 8, 40 ],
+  "travelTimeMinutes" : 500,
+  "aircraft" : "333"
+}, {
+  "from" : "KUL",
+  "to" : "KCH",
+  "airlineDesignator" : "GA",
+  "flightNumber" : "8932*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 10 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "738"
+}, {
+  "from" : "DPS",
+  "to" : "KUL",
+  "airlineDesignator" : "GA",
+  "flightNumber" : "8945*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 22, 20 ],
+  "travelTimeMinutes" : 180,
+  "aircraft" : "738"
+}, {
+  "from" : "GMP",
+  "to" : "CJU",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "1269",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 30 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "739"
+}, {
+  "from" : "ICN",
+  "to" : "SEA",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "5019*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 13, 35 ],
+  "travelTimeMinutes" : 615,
+  "aircraft" : "339"
+}, {
+  "from" : "GMP",
+  "to" : "HND",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "5709*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 130,
+  "aircraft" : "788"
+}, {
+  "from" : "FRA",
+  "to" : "AMS",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "1774",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 30 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "295"
+}, {
+  "from" : "ATL",
+  "to" : "LHR",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "4801*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 8, 40 ],
+  "travelTimeMinutes" : 500,
+  "aircraft" : "333"
+}, {
+  "from" : "GRU",
+  "to" : "AMS",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "792",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 11, 45 ],
+  "travelTimeMinutes" : 685,
+  "aircraft" : "77W"
+}, {
+  "from" : "XMN",
+  "to" : "DLC",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8055",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 23, 50 ],
+  "travelTimeMinutes" : 270,
+  "aircraft" : "738"
+}, {
+  "from" : "HET",
+  "to" : "FOC",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8158",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 23, 50 ],
+  "travelTimeMinutes" : 270,
+  "aircraft" : "738"
+}, {
+  "from" : "CGO",
+  "to" : "XMN",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8268",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 40 ],
+  "travelTimeMinutes" : 140,
+  "aircraft" : "738"
+}, {
+  "from" : "SYX",
+  "to" : "XMN",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8308",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 35 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "738"
+}, {
+  "from" : "FOC",
+  "to" : "ZUH",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8533",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 55 ],
+  "travelTimeMinutes" : 95,
+  "aircraft" : "738"
+}, {
+  "from" : "UYN",
+  "to" : "XIY",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2276",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 35 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "320"
+}, {
+  "from" : "XIY",
+  "to" : "URC",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2398",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 23, 0 ],
+  "travelTimeMinutes" : 220,
+  "aircraft" : "321"
+}, {
+  "from" : "WUX",
+  "to" : "DLC",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2747",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "320"
+}, {
+  "from" : "SHE",
+  "to" : "NKG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2764",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 45 ],
+  "travelTimeMinutes" : 145,
+  "aircraft" : "319"
+}, {
+  "from" : "NKG",
+  "to" : "XIY",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2767",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 35 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "320"
+}, {
+  "from" : "URC",
+  "to" : "NKG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2770",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 23, 55 ],
+  "travelTimeMinutes" : 275,
+  "aircraft" : "320"
+}, {
+  "from" : "KMG",
+  "to" : "WUX",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2986",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 22, 20 ],
+  "travelTimeMinutes" : 180,
+  "aircraft" : "320"
+}, {
+  "from" : "SHA",
+  "to" : "CKG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5431",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 22, 20 ],
+  "travelTimeMinutes" : 180,
+  "aircraft" : "321"
+}, {
+  "from" : "KMG",
+  "to" : "CGQ",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6230",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 1, 15 ],
+  "travelTimeMinutes" : 355,
+  "aircraft" : "320"
+}, {
+  "from" : "XNN",
+  "to" : "HFE",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6472",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 45 ],
+  "travelTimeMinutes" : 145,
+  "aircraft" : "320"
+}, {
+  "from" : "YCU",
+  "to" : "NKG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6735",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 5 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "73H"
+}, {
+  "from" : "JGN",
+  "to" : "CAN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6956",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 1, 10 ],
+  "travelTimeMinutes" : 350,
+  "aircraft" : "73L"
+}, {
+  "from" : "DSN",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8558*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 22, 0 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "73E"
+}, {
+  "from" : "QSZ",
+  "to" : "XIY",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "9044",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 23, 25 ],
+  "travelTimeMinutes" : 245,
+  "aircraft" : "319"
+}, {
+  "from" : "SVO",
+  "to" : "KZN",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1194",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 5 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "32N"
+}, {
+  "from" : "CEK",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1423",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 5 ],
+  "travelTimeMinutes" : 165,
+  "aircraft" : "73H"
+}, {
+  "from" : "SVO",
+  "to" : "CEK",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1532",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 23, 55 ],
+  "travelTimeMinutes" : 155,
+  "aircraft" : "32A"
+}, {
+  "from" : "JED",
+  "to" : "TUU",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1551",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 20, 45 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "320"
+}, {
+  "from" : "BIO",
+  "to" : "TFN",
+  "airlineDesignator" : "UX",
+  "flightNumber" : "7008",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 20 ],
+  "arrivalTime" : [ 21, 25 ],
+  "travelTimeMinutes" : 185,
+  "aircraft" : "73H"
+}, {
+  "from" : "GEG",
+  "to" : "SEA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3508",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 21 ],
+  "arrivalTime" : [ 20, 43 ],
+  "travelTimeMinutes" : 82,
+  "aircraft" : "E7W"
+}, {
+  "from" : "DTW",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "372",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 21 ],
+  "arrivalTime" : [ 21, 17 ],
+  "travelTimeMinutes" : 116,
+  "aircraft" : "321"
+}, {
+  "from" : "LAS",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "918",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 21 ],
+  "arrivalTime" : [ 21, 43 ],
+  "travelTimeMinutes" : 82,
+  "aircraft" : "321"
+}, {
+  "from" : "MIA",
+  "to" : "DTW",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1039",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 22 ],
+  "arrivalTime" : [ 22, 20 ],
+  "travelTimeMinutes" : 178,
+  "aircraft" : "320"
+}, {
+  "from" : "PIT",
+  "to" : "LGA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5360",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 22 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 98,
+  "aircraft" : "CR9"
+}, {
+  "from" : "BNA",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "792",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 22 ],
+  "arrivalTime" : [ 22, 8 ],
+  "travelTimeMinutes" : 226,
+  "aircraft" : "739"
+}, {
+  "from" : "DEN",
+  "to" : "LAX",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3692",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 24 ],
+  "arrivalTime" : [ 21, 5 ],
+  "travelTimeMinutes" : 161,
+  "aircraft" : "E7W"
+}, {
+  "from" : "ATL",
+  "to" : "EZE",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "7001*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 6, 30 ],
+  "travelTimeMinutes" : 605,
+  "aircraft" : "764"
+}, {
+  "from" : "SYD",
+  "to" : "CHC",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "9985*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 0, 30 ],
+  "travelTimeMinutes" : 185,
+  "aircraft" : "73H"
+}, {
+  "from" : "ATL",
+  "to" : "EZE",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "101",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 6, 30 ],
+  "travelTimeMinutes" : 605,
+  "aircraft" : "764"
+}, {
+  "from" : "LGA",
+  "to" : "RSW",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1498",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 22, 38 ],
+  "travelTimeMinutes" : 193,
+  "aircraft" : "221"
+}, {
+  "from" : "JFK",
+  "to" : "MIA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2243",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 22, 47 ],
+  "travelTimeMinutes" : 202,
+  "aircraft" : "738"
+}, {
+  "from" : "LAX",
+  "to" : "TUS",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4143",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 20, 57 ],
+  "travelTimeMinutes" : 92,
+  "aircraft" : "E7W"
+}, {
+  "from" : "JFK",
+  "to" : "DTW",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4654",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 21, 43 ],
+  "travelTimeMinutes" : 138,
+  "aircraft" : "CR9"
+}, {
+  "from" : "JFK",
+  "to" : "IND",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5041",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 21, 54 ],
+  "travelTimeMinutes" : 149,
+  "aircraft" : "CR9"
+}, {
+  "from" : "BOS",
+  "to" : "PHL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5757",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 21, 12 ],
+  "travelTimeMinutes" : 107,
+  "aircraft" : "E75"
+}, {
+  "from" : "ORD",
+  "to" : "SEA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "748",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 22, 4 ],
+  "travelTimeMinutes" : 279,
+  "aircraft" : "320"
+}, {
+  "from" : "JHB",
+  "to" : "KUL",
+  "airlineDesignator" : "GA",
+  "flightNumber" : "9286*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 20, 25 ],
+  "travelTimeMinutes" : 60,
+  "aircraft" : "738"
+}, {
+  "from" : "CJU",
+  "to" : "PUS",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "1032",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 20, 25 ],
+  "travelTimeMinutes" : 60,
+  "aircraft" : "739"
+}, {
+  "from" : "GMP",
+  "to" : "PUS",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "1125",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 20, 35 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "223"
+}, {
+  "from" : "NBO",
+  "to" : "DAR",
+  "airlineDesignator" : "KQ",
+  "flightNumber" : "6712*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 150,
+  "aircraft" : "AT7"
+}, {
+  "from" : "INC",
+  "to" : "SHA",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8222",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 150,
+  "aircraft" : "738"
+}, {
+  "from" : "SZX",
+  "to" : "SHA",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8318",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 21, 45 ],
+  "travelTimeMinutes" : 140,
+  "aircraft" : "738"
+}, {
+  "from" : "XIY",
+  "to" : "WEH",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2253",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 21, 45 ],
+  "travelTimeMinutes" : 140,
+  "aircraft" : "319"
+}, {
+  "from" : "XIY",
+  "to" : "GOQ",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2375",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 150,
+  "aircraft" : "319"
+}, {
+  "from" : "WUH",
+  "to" : "CKG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2539",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 95,
+  "aircraft" : "73H"
+}, {
+  "from" : "SZX",
+  "to" : "WUX",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2938",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 145,
+  "aircraft" : "321"
+}, {
+  "from" : "HLD",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "3508*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 1, 0 ],
+  "travelTimeMinutes" : 335,
+  "aircraft" : "32A"
+}, {
+  "from" : "SYD",
+  "to" : "CHC",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "4330*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 0, 30 ],
+  "travelTimeMinutes" : 185,
+  "aircraft" : "73H"
+}, {
+  "from" : "CKG",
+  "to" : "TAO",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5254",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 23, 50 ],
+  "travelTimeMinutes" : 265,
+  "aircraft" : "321"
+}, {
+  "from" : "HFE",
+  "to" : "KMG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5443",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 22, 5 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "320"
+}, {
+  "from" : "FOC",
+  "to" : "DLC",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5661",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 0, 10 ],
+  "travelTimeMinutes" : 285,
+  "aircraft" : "321"
+}, {
+  "from" : "SQD",
+  "to" : "KMG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5824",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 22, 15 ],
+  "travelTimeMinutes" : 170,
+  "aircraft" : "737"
+}, {
+  "from" : "XMN",
+  "to" : "CGO",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6377",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 21, 40 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "320"
+}, {
+  "from" : "YNZ",
+  "to" : "KHN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6418",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 20, 55 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "320"
+}, {
+  "from" : "YNT",
+  "to" : "DLC",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6441",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 20, 20 ],
+  "travelTimeMinutes" : 55,
+  "aircraft" : "320"
+}, {
+  "from" : "YNT",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8448*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 21, 25 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "738"
+}, {
+  "from" : "LED",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "25",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 95,
+  "aircraft" : "32Q"
+}, {
+  "from" : "KHV",
+  "to" : "OVB",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "5642",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 21, 40 ],
+  "travelTimeMinutes" : 315,
+  "aircraft" : "319"
+}, {
+  "from" : "JED",
+  "to" : "MCT",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "6076*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 23, 40 ],
+  "travelTimeMinutes" : 195,
+  "aircraft" : "789"
+}, {
+  "from" : "MUC",
+  "to" : "MAD",
+  "airlineDesignator" : "UX",
+  "flightNumber" : "1518",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 22, 10 ],
+  "travelTimeMinutes" : 165,
+  "aircraft" : "73H"
+}, {
+  "from" : "PQC",
+  "to" : "SGN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "6524",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 25 ],
+  "arrivalTime" : [ 21, 5 ],
+  "travelTimeMinutes" : 100,
+  "aircraft" : "320"
+}, {
+  "from" : "JFK",
+  "to" : "MCO",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1515",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 27 ],
+  "arrivalTime" : [ 22, 46 ],
+  "travelTimeMinutes" : 199,
+  "aircraft" : "321"
+}, {
+  "from" : "PDX",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1698",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 27 ],
+  "arrivalTime" : [ 22, 15 ],
+  "travelTimeMinutes" : 108,
+  "aircraft" : "739"
+}, {
+  "from" : "GPT",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2063",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 27 ],
+  "arrivalTime" : [ 21, 47 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "717"
+}, {
+  "from" : "PHL",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2354",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 27 ],
+  "arrivalTime" : [ 21, 40 ],
+  "travelTimeMinutes" : 133,
+  "aircraft" : "739"
+}, {
+  "from" : "JFK",
+  "to" : "RDU",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4894",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 28 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 122,
+  "aircraft" : "CR9"
+}, {
+  "from" : "JFK",
+  "to" : "FLL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1627",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 29 ],
+  "arrivalTime" : [ 22, 51 ],
+  "travelTimeMinutes" : 202,
+  "aircraft" : "738"
+}, {
+  "from" : "JFK",
+  "to" : "TPA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2090",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 29 ],
+  "arrivalTime" : [ 22, 39 ],
+  "travelTimeMinutes" : 190,
+  "aircraft" : "319"
+}, {
+  "from" : "SMF",
+  "to" : "LAX",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3536",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 29 ],
+  "arrivalTime" : [ 21, 9 ],
+  "travelTimeMinutes" : 100,
+  "aircraft" : "E7W"
+}, {
+  "from" : "JFK",
+  "to" : "SAN",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "363",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 29 ],
+  "arrivalTime" : [ 22, 50 ],
+  "travelTimeMinutes" : 381,
+  "aircraft" : "75W"
+}, {
+  "from" : "JFK",
+  "to" : "MSP",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4808",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 29 ],
+  "arrivalTime" : [ 22, 1 ],
+  "travelTimeMinutes" : 212,
+  "aircraft" : "CR9"
+}, {
+  "from" : "JFK",
+  "to" : "ORD",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5752",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 29 ],
+  "arrivalTime" : [ 21, 35 ],
+  "travelTimeMinutes" : 186,
+  "aircraft" : "E75"
+}, {
+  "from" : "CDG",
+  "to" : "HEL",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "1176",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 23, 30 ],
+  "travelTimeMinutes" : 180,
+  "aircraft" : "223"
+}, {
+  "from" : "CDG",
+  "to" : "GOT",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "1552*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 35 ],
+  "travelTimeMinutes" : 125,
+  "aircraft" : "E90"
+}, {
+  "from" : "JFK",
+  "to" : "BRU",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "3575*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 9, 10 ],
+  "travelTimeMinutes" : 460,
+  "aircraft" : "76W"
+}, {
+  "from" : "TLS",
+  "to" : "ORY",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "6144",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 20, 45 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "318"
+}, {
+  "from" : "JFK",
+  "to" : "CDG",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "7",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 9, 0 ],
+  "travelTimeMinutes" : 450,
+  "aircraft" : "77W"
+}, {
+  "from" : "CDG",
+  "to" : "JFK",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "8",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 45 ],
+  "travelTimeMinutes" : 495,
+  "aircraft" : "77W"
+}, {
+  "from" : "JFK",
+  "to" : "CDG",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "8",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 45 ],
+  "travelTimeMinutes" : 495,
+  "aircraft" : "77W"
+}, {
+  "from" : "SIN",
+  "to" : "SYD",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "9665*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 6, 10 ],
+  "travelTimeMinutes" : 460,
+  "aircraft" : "388"
+}, {
+  "from" : "MEX",
+  "to" : "ZLO",
+  "airlineDesignator" : "AM",
+  "flightNumber" : "2568",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 20, 57 ],
+  "travelTimeMinutes" : 87,
+  "aircraft" : "E90"
+}, {
+  "from" : "ACA",
+  "to" : "MEX",
+  "airlineDesignator" : "AM",
+  "flightNumber" : "309",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 20, 55 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "E90"
+}, {
+  "from" : "COR",
+  "to" : "AEP",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "1507",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 20, 45 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "738"
+}, {
+  "from" : "GRU",
+  "to" : "AEP",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "7710*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 22, 20 ],
+  "travelTimeMinutes" : 170,
+  "aircraft" : "7M8"
+}, {
+  "from" : "ORY",
+  "to" : "LIN",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "353*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 20, 55 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "319"
+}, {
+  "from" : "ATH",
+  "to" : "FCO",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "721*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 130,
+  "aircraft" : "32S"
+}, {
+  "from" : "TPE",
+  "to" : "HKG",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "927",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 25 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "32Q"
+}, {
+  "from" : "YVR",
+  "to" : "YXS",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "9353*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 20, 51 ],
+  "travelTimeMinutes" : 81,
+  "aircraft" : "DH4"
+}, {
+  "from" : "YXS",
+  "to" : "YVR",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "9353*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 20, 51 ],
+  "travelTimeMinutes" : 81,
+  "aircraft" : "DH4"
+}, {
+  "from" : "KUL",
+  "to" : "PEN",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "9426*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 20, 35 ],
+  "travelTimeMinutes" : 65,
+  "aircraft" : "738"
+}, {
+  "from" : "ATL",
+  "to" : "YYZ",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1178",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 44 ],
+  "travelTimeMinutes" : 134,
+  "aircraft" : "320"
+}, {
+  "from" : "JFK",
+  "to" : "BRU",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "140",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 9, 10 ],
+  "travelTimeMinutes" : 460,
+  "aircraft" : "76W"
+}, {
+  "from" : "ORD",
+  "to" : "DTW",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1567",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 54 ],
+  "travelTimeMinutes" : 84,
+  "aircraft" : "717"
+}, {
+  "from" : "ATL",
+  "to" : "PBI",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1578",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 16 ],
+  "travelTimeMinutes" : 106,
+  "aircraft" : "321"
+}, {
+  "from" : "CLT",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2189",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 20, 42 ],
+  "travelTimeMinutes" : 72,
+  "aircraft" : "717"
+}, {
+  "from" : "SEA",
+  "to" : "SAN",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2246",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 22, 8 ],
+  "travelTimeMinutes" : 158,
+  "aircraft" : "738"
+}, {
+  "from" : "AVL",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2377",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 20, 28 ],
+  "travelTimeMinutes" : 58,
+  "aircraft" : "717"
+}, {
+  "from" : "LEX",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2380",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "717"
+}, {
+  "from" : "ORF",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2570",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 20 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "757"
+}, {
+  "from" : "SNA",
+  "to" : "SEA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "550",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 22, 23 ],
+  "travelTimeMinutes" : 173,
+  "aircraft" : "223"
+}, {
+  "from" : "LGA",
+  "to" : "JAX",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5701",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 22, 15 ],
+  "travelTimeMinutes" : 165,
+  "aircraft" : "E75"
+}, {
+  "from" : "JFK",
+  "to" : "CDG",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "8739*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 9, 0 ],
+  "travelTimeMinutes" : 450,
+  "aircraft" : "77W"
+}, {
+  "from" : "CDG",
+  "to" : "JFK",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "8746*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 45 ],
+  "travelTimeMinutes" : 495,
+  "aircraft" : "77W"
+}, {
+  "from" : "JFK",
+  "to" : "CDG",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "8746*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 45 ],
+  "travelTimeMinutes" : 495,
+  "aircraft" : "77W"
+}, {
+  "from" : "ATL",
+  "to" : "RIC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "877",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 3 ],
+  "travelTimeMinutes" : 93,
+  "aircraft" : "757"
+}, {
+  "from" : "ICN",
+  "to" : "JFK",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "9014*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 870,
+  "aircraft" : "77W"
+}, {
+  "from" : "SGN",
+  "to" : "HAN",
+  "airlineDesignator" : "GA",
+  "flightNumber" : "9610*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 40 ],
+  "travelTimeMinutes" : 130,
+  "aircraft" : "787"
+}, {
+  "from" : "ICN",
+  "to" : "JFK",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "85",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 870,
+  "aircraft" : "77W"
+}, {
+  "from" : "MXP",
+  "to" : "AMS",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "1634",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 20 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "295"
+}, {
+  "from" : "SIN",
+  "to" : "SYD",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "4882*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 6, 10 ],
+  "travelTimeMinutes" : 460,
+  "aircraft" : "388"
+}, {
+  "from" : "JFK",
+  "to" : "BRU",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "6140*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 9, 10 ],
+  "travelTimeMinutes" : 460,
+  "aircraft" : "76W"
+}, {
+  "from" : "SHA",
+  "to" : "XIY",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2168",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 22, 10 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "333"
+}, {
+  "from" : "XIY",
+  "to" : "CAN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2260",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 22, 15 ],
+  "travelTimeMinutes" : 165,
+  "aircraft" : "320"
+}, {
+  "from" : "XIY",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2336",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 45 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "333"
+}, {
+  "from" : "NNG",
+  "to" : "HFE",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2420",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 22, 0 ],
+  "travelTimeMinutes" : 150,
+  "aircraft" : "320"
+}, {
+  "from" : "XMN",
+  "to" : "TYN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2438",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 0, 5 ],
+  "travelTimeMinutes" : 275,
+  "aircraft" : "73H"
+}, {
+  "from" : "WUH",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2543",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "73E"
+}, {
+  "from" : "HAK",
+  "to" : "WUH",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2594",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 22, 5 ],
+  "travelTimeMinutes" : 155,
+  "aircraft" : "73E"
+}, {
+  "from" : "CZX",
+  "to" : "TYN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2669",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "320"
+}, {
+  "from" : "SYX",
+  "to" : "NKG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2728",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 22, 45 ],
+  "travelTimeMinutes" : 195,
+  "aircraft" : "320"
+}, {
+  "from" : "NKG",
+  "to" : "CKG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2835",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 140,
+  "aircraft" : "320"
+}, {
+  "from" : "SIN",
+  "to" : "SYD",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "4167*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 6, 10 ],
+  "travelTimeMinutes" : 460,
+  "aircraft" : "388"
+}, {
+  "from" : "SHA",
+  "to" : "PEK",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5163",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 140,
+  "aircraft" : "333"
+}, {
+  "from" : "SHA",
+  "to" : "PEK",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5164",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 145,
+  "aircraft" : "359"
+}, {
+  "from" : "SHA",
+  "to" : "CAN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5315",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 140,
+  "aircraft" : "73L"
+}, {
+  "from" : "SZX",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5354",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 140,
+  "aircraft" : "332"
+}, {
+  "from" : "KMG",
+  "to" : "LUM",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5979",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "737"
+}, {
+  "from" : "CGQ",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6356",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 22, 15 ],
+  "travelTimeMinutes" : 165,
+  "aircraft" : "320"
+}, {
+  "from" : "SHE",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8408*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 22, 15 ],
+  "travelTimeMinutes" : 165,
+  "aircraft" : "73L"
+}, {
+  "from" : "CAN",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8497*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 22, 10 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "333"
+}, {
+  "from" : "SHA",
+  "to" : "CAN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8497*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 22, 10 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "333"
+}, {
+  "from" : "KWL",
+  "to" : "CGO",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8596*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 35 ],
+  "travelTimeMinutes" : 125,
+  "aircraft" : "73E"
+}, {
+  "from" : "DXB",
+  "to" : "PRG",
+  "airlineDesignator" : "OK",
+  "flightNumber" : "4351*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 0, 20 ],
+  "travelTimeMinutes" : 410,
+  "aircraft" : "738"
+}, {
+  "from" : "IKT",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1445",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 20, 45 ],
+  "travelTimeMinutes" : 375,
+  "aircraft" : "73H"
+}, {
+  "from" : "ABT",
+  "to" : "RUH",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1702",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "321"
+}, {
+  "from" : "CAI",
+  "to" : "RUH",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "312",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 23, 10 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "330"
+}, {
+  "from" : "SSH",
+  "to" : "RUH",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "328",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 22, 45 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "320"
+}, {
+  "from" : "CDG",
+  "to" : "GOT",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "6092*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 35 ],
+  "travelTimeMinutes" : 125,
+  "aircraft" : "E90"
+}, {
+  "from" : "JED",
+  "to" : "BOM",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "772",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 2, 40 ],
+  "travelTimeMinutes" : 280,
+  "aircraft" : "773"
+}, {
+  "from" : "ORY",
+  "to" : "MAD",
+  "airlineDesignator" : "UX",
+  "flightNumber" : "1026",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "73H"
+}, {
+  "from" : "LPA",
+  "to" : "ACE",
+  "airlineDesignator" : "UX",
+  "flightNumber" : "2133*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 20, 15 ],
+  "travelTimeMinutes" : 45,
+  "aircraft" : "AT7"
+}, {
+  "from" : "BMV",
+  "to" : "HAN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "1604",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "321"
+}, {
+  "from" : "BKK",
+  "to" : "SGN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "606",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 30 ],
+  "arrivalTime" : [ 21, 20 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "359"
+}, {
+  "from" : "ATL",
+  "to" : "SFO",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1462",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 31 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 319,
+  "aircraft" : "739"
+}, {
+  "from" : "BNA",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1704",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 31 ],
+  "arrivalTime" : [ 21, 37 ],
+  "travelTimeMinutes" : 66,
+  "aircraft" : "321"
+}, {
+  "from" : "MSP",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "317",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 31 ],
+  "arrivalTime" : [ 21, 7 ],
+  "travelTimeMinutes" : 156,
+  "aircraft" : "752"
+}, {
+  "from" : "RDU",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "957",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 31 ],
+  "arrivalTime" : [ 22, 15 ],
+  "travelTimeMinutes" : 284,
+  "aircraft" : "739"
+}, {
+  "from" : "DFW",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1114",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 32 ],
+  "arrivalTime" : [ 22, 41 ],
+  "travelTimeMinutes" : 129,
+  "aircraft" : "321"
+}, {
+  "from" : "HIB",
+  "to" : "MSP",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4247",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 32 ],
+  "arrivalTime" : [ 20, 35 ],
+  "travelTimeMinutes" : 63,
+  "aircraft" : "CRJ"
+}, {
+  "from" : "MIA",
+  "to" : "JFK",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "811",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 32 ],
+  "arrivalTime" : [ 22, 42 ],
+  "travelTimeMinutes" : 190,
+  "aircraft" : "738"
+}, {
+  "from" : "MEX",
+  "to" : "ATL",
+  "airlineDesignator" : "AM",
+  "flightNumber" : "5216*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 33 ],
+  "arrivalTime" : [ 22, 15 ],
+  "travelTimeMinutes" : 222,
+  "aircraft" : "738"
+}, {
+  "from" : "MCI",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2160",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 33 ],
+  "arrivalTime" : [ 21, 13 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "319"
+}, {
+  "from" : "BHM",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2580",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 34 ],
+  "arrivalTime" : [ 21, 37 ],
+  "travelTimeMinutes" : 63,
+  "aircraft" : "738"
+}, {
+  "from" : "TYS",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4919",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 34 ],
+  "arrivalTime" : [ 20, 33 ],
+  "travelTimeMinutes" : 59,
+  "aircraft" : "CRJ"
+}, {
+  "from" : "NCE",
+  "to" : "AMS",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "3170*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 35 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "E90"
+}, {
+  "from" : "BOS",
+  "to" : "LHR",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "3567*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 7, 10 ],
+  "travelTimeMinutes" : 395,
+  "aircraft" : "764"
+}, {
+  "from" : "MIA",
+  "to" : "LHR",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "6755*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 9, 5 ],
+  "travelTimeMinutes" : 510,
+  "aircraft" : "789"
+}, {
+  "from" : "CDG",
+  "to" : "LYS",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "7649",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 20, 45 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "321"
+}, {
+  "from" : "LYS",
+  "to" : "CDG",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "7649",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 20, 45 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "321"
+}, {
+  "from" : "LAS",
+  "to" : "LHR",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "9926*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 13, 35 ],
+  "travelTimeMinutes" : 600,
+  "aircraft" : "789"
+}, {
+  "from" : "MEX",
+  "to" : "GDL",
+  "airlineDesignator" : "AM",
+  "flightNumber" : "255",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 100,
+  "aircraft" : "E90"
+}, {
+  "from" : "MEX",
+  "to" : "CUN",
+  "airlineDesignator" : "AM",
+  "flightNumber" : "555",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 15 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "738"
+}, {
+  "from" : "MEX",
+  "to" : "ORD",
+  "airlineDesignator" : "AM",
+  "flightNumber" : "682",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 23, 40 ],
+  "travelTimeMinutes" : 245,
+  "aircraft" : "7S8"
+}, {
+  "from" : "NQN",
+  "to" : "COR",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "1515",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 100,
+  "aircraft" : "E90"
+}, {
+  "from" : "CAG",
+  "to" : "LIN",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "1559*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 20, 55 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "32S"
+}, {
+  "from" : "KIX",
+  "to" : "TPE",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "9915*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 35 ],
+  "travelTimeMinutes" : 180,
+  "aircraft" : "73H"
+}, {
+  "from" : "CVG",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1118",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 28 ],
+  "travelTimeMinutes" : 233,
+  "aircraft" : "739"
+}, {
+  "from" : "JFK",
+  "to" : "MAD",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "126",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 9, 15 ],
+  "travelTimeMinutes" : 460,
+  "aircraft" : "764"
+}, {
+  "from" : "SLC",
+  "to" : "PHX",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1579",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 13 ],
+  "travelTimeMinutes" : 98,
+  "aircraft" : "319"
+}, {
+  "from" : "RDU",
+  "to" : "LGA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2132",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 27 ],
+  "travelTimeMinutes" : 112,
+  "aircraft" : "221"
+}, {
+  "from" : "CLE",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2637",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 26 ],
+  "travelTimeMinutes" : 111,
+  "aircraft" : "320"
+}, {
+  "from" : "ATL",
+  "to" : "FWA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3713",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 25 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "CR9"
+}, {
+  "from" : "SJC",
+  "to" : "SEA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3768",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 58 ],
+  "travelTimeMinutes" : 143,
+  "aircraft" : "E7W"
+}, {
+  "from" : "SEA",
+  "to" : "BOI",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3800",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 0 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "E7W"
+}, {
+  "from" : "LGA",
+  "to" : "YUL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5067",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 18 ],
+  "travelTimeMinutes" : 103,
+  "aircraft" : "CR7"
+}, {
+  "from" : "LGA",
+  "to" : "BUF",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5528",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 20, 59 ],
+  "travelTimeMinutes" : 84,
+  "aircraft" : "CR9"
+}, {
+  "from" : "BOS",
+  "to" : "LHR",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "58",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 7, 10 ],
+  "travelTimeMinutes" : 395,
+  "aircraft" : "764"
+}, {
+  "from" : "LAS",
+  "to" : "LHR",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5958*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 13, 35 ],
+  "travelTimeMinutes" : 600,
+  "aircraft" : "789"
+}, {
+  "from" : "MIA",
+  "to" : "LHR",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5966*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 9, 5 ],
+  "travelTimeMinutes" : 510,
+  "aircraft" : "789"
+}, {
+  "from" : "LGA",
+  "to" : "IAH",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "736",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 55 ],
+  "travelTimeMinutes" : 260,
+  "aircraft" : "221"
+}, {
+  "from" : "JFK",
+  "to" : "LAX",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "808",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 54 ],
+  "travelTimeMinutes" : 379,
+  "aircraft" : "76W"
+}, {
+  "from" : "LAX",
+  "to" : "JFK",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "808",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 54 ],
+  "travelTimeMinutes" : 379,
+  "aircraft" : "76W"
+}, {
+  "from" : "ATL",
+  "to" : "JFK",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "860",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 57 ],
+  "travelTimeMinutes" : 142,
+  "aircraft" : "738"
+}, {
+  "from" : "CGK",
+  "to" : "DPS",
+  "airlineDesignator" : "GA",
+  "flightNumber" : "414",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 35 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "738"
+}, {
+  "from" : "DPS",
+  "to" : "CGK",
+  "airlineDesignator" : "GA",
+  "flightNumber" : "414",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 35 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "738"
+}, {
+  "from" : "GMP",
+  "to" : "CJU",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "1268",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 20, 45 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "739"
+}, {
+  "from" : "ICN",
+  "to" : "BKK",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "651",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 23, 15 ],
+  "travelTimeMinutes" : 340,
+  "aircraft" : "333"
+}, {
+  "from" : "LHR",
+  "to" : "ICN",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "908",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 15, 45 ],
+  "travelTimeMinutes" : 730,
+  "aircraft" : "77W"
+}, {
+  "from" : "MAN",
+  "to" : "AMS",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "1082",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "E75"
+}, {
+  "from" : "NCE",
+  "to" : "AMS",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "1262",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 35 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "E90"
+}, {
+  "from" : "DMM",
+  "to" : "MCT",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "421",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 20 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "333"
+}, {
+  "from" : "LAS",
+  "to" : "LHR",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "4807*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 13, 35 ],
+  "travelTimeMinutes" : 600,
+  "aircraft" : "789"
+}, {
+  "from" : "MIA",
+  "to" : "LHR",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "4817*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 9, 5 ],
+  "travelTimeMinutes" : 510,
+  "aircraft" : "789"
+}, {
+  "from" : "JFK",
+  "to" : "MAD",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "6126*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 9, 15 ],
+  "travelTimeMinutes" : 460,
+  "aircraft" : "764"
+}, {
+  "from" : "BOS",
+  "to" : "LHR",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "6186*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 7, 10 ],
+  "travelTimeMinutes" : 395,
+  "aircraft" : "764"
+}, {
+  "from" : "AMS",
+  "to" : "DUB",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "941",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 20, 15 ],
+  "travelTimeMinutes" : 100,
+  "aircraft" : "E75"
+}, {
+  "from" : "YCU",
+  "to" : "HFE",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8112",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 5 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "738"
+}, {
+  "from" : "TYN",
+  "to" : "FOC",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8136",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 23, 50 ],
+  "travelTimeMinutes" : 255,
+  "aircraft" : "738"
+}, {
+  "from" : "INC",
+  "to" : "HGH",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8866",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 23, 45 ],
+  "travelTimeMinutes" : 250,
+  "aircraft" : "738"
+}, {
+  "from" : "SYX",
+  "to" : "XIY",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2140",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 50 ],
+  "travelTimeMinutes" : 195,
+  "aircraft" : "321"
+}, {
+  "from" : "PVG",
+  "to" : "XNN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2309",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 55 ],
+  "travelTimeMinutes" : 200,
+  "aircraft" : "320"
+}, {
+  "from" : "HRB",
+  "to" : "NKG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2840",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 30 ],
+  "travelTimeMinutes" : 175,
+  "aircraft" : "320"
+}, {
+  "from" : "CGO",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5394",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "321"
+}, {
+  "from" : "TNA",
+  "to" : "CKG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5471",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 10 ],
+  "travelTimeMinutes" : 155,
+  "aircraft" : "320"
+}, {
+  "from" : "DIG",
+  "to" : "KMG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5936",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 65,
+  "aircraft" : "737"
+}, {
+  "from" : "HRB",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6338",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 40 ],
+  "travelTimeMinutes" : 185,
+  "aircraft" : "321"
+}, {
+  "from" : "TNA",
+  "to" : "SHE",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6405",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 20 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "320"
+}, {
+  "from" : "KHN",
+  "to" : "TAO",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6496",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 25 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "320"
+}, {
+  "from" : "YNJ",
+  "to" : "YNT",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6536",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 40 ],
+  "travelTimeMinutes" : 125,
+  "aircraft" : "319"
+}, {
+  "from" : "CKG",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8580*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 5 ],
+  "travelTimeMinutes" : 150,
+  "aircraft" : "738"
+}, {
+  "from" : "XIY",
+  "to" : "KHG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "9025",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 0, 15 ],
+  "travelTimeMinutes" : 280,
+  "aircraft" : "319"
+}, {
+  "from" : "WNZ",
+  "to" : "KMG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "9662",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 40 ],
+  "travelTimeMinutes" : 185,
+  "aircraft" : "73E"
+}, {
+  "from" : "AER",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1129",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 10 ],
+  "travelTimeMinutes" : 155,
+  "aircraft" : "32Q"
+}, {
+  "from" : "SVO",
+  "to" : "AER",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1129",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 10 ],
+  "travelTimeMinutes" : 155,
+  "aircraft" : "32Q"
+}, {
+  "from" : "UFA",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1233",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 19, 50 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "32B"
+}, {
+  "from" : "RUH",
+  "to" : "RAE",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1229",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 100,
+  "aircraft" : "321"
+}, {
+  "from" : "DMM",
+  "to" : "MCT",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "6300*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 22, 20 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "333"
+}, {
+  "from" : "IBZ",
+  "to" : "PMI",
+  "airlineDesignator" : "UX",
+  "flightNumber" : "1711",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 20, 15 ],
+  "travelTimeMinutes" : 40,
+  "aircraft" : "AT7"
+}, {
+  "from" : "JFK",
+  "to" : "MAD",
+  "airlineDesignator" : "UX",
+  "flightNumber" : "3392*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 35 ],
+  "arrivalTime" : [ 9, 15 ],
+  "travelTimeMinutes" : 460,
+  "aircraft" : "764"
+}, {
+  "from" : "FLL",
+  "to" : "JFK",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "725",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 36 ],
+  "arrivalTime" : [ 22, 42 ],
+  "travelTimeMinutes" : 186,
+  "aircraft" : "738"
+}, {
+  "from" : "IAH",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1691",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 37 ],
+  "arrivalTime" : [ 22, 5 ],
+  "travelTimeMinutes" : 208,
+  "aircraft" : "319"
+}, {
+  "from" : "IND",
+  "to" : "MSP",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2393",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 37 ],
+  "arrivalTime" : [ 20, 26 ],
+  "travelTimeMinutes" : 109,
+  "aircraft" : "321"
+}, {
+  "from" : "JAN",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2604",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 38 ],
+  "arrivalTime" : [ 21, 59 ],
+  "travelTimeMinutes" : 81,
+  "aircraft" : "717"
+}, {
+  "from" : "LAS",
+  "to" : "LAX",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "967",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 38 ],
+  "arrivalTime" : [ 20, 55 ],
+  "travelTimeMinutes" : 77,
+  "aircraft" : "223"
+}, {
+  "from" : "GRR",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2463",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 39 ],
+  "arrivalTime" : [ 21, 38 ],
+  "travelTimeMinutes" : 119,
+  "aircraft" : "320"
+}, {
+  "from" : "MXP",
+  "to" : "CDG",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "1131",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 10 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "223"
+}, {
+  "from" : "MEX",
+  "to" : "CDG",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "179",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 13, 35 ],
+  "travelTimeMinutes" : 655,
+  "aircraft" : "77W"
+}, {
+  "from" : "FCO",
+  "to" : "JFK",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "3561*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 10, 25 ],
+  "travelTimeMinutes" : 525,
+  "aircraft" : "333"
+}, {
+  "from" : "JFK",
+  "to" : "FCO",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "3561*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 10, 25 ],
+  "travelTimeMinutes" : 525,
+  "aircraft" : "333"
+}, {
+  "from" : "SEA",
+  "to" : "LHR",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "3603*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 13, 15 ],
+  "travelTimeMinutes" : 575,
+  "aircraft" : "333"
+}, {
+  "from" : "MEX",
+  "to" : "CPE",
+  "airlineDesignator" : "AM",
+  "flightNumber" : "2442",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "E90"
+}, {
+  "from" : "MEX",
+  "to" : "CDG",
+  "airlineDesignator" : "AM",
+  "flightNumber" : "6103*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 13, 35 ],
+  "travelTimeMinutes" : 655,
+  "aircraft" : "77W"
+}, {
+  "from" : "AEP",
+  "to" : "SCL",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "1282",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "738"
+}, {
+  "from" : "TUC",
+  "to" : "AEP",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "1488",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 35 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "E90"
+}, {
+  "from" : "AEP",
+  "to" : "GIG",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "7712*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 22, 35 ],
+  "travelTimeMinutes" : 175,
+  "aircraft" : "738"
+}, {
+  "from" : "LIN",
+  "to" : "LHR",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "248*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 20, 45 ],
+  "travelTimeMinutes" : 125,
+  "aircraft" : "319"
+}, {
+  "from" : "FRA",
+  "to" : "LIN",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "419*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 20, 55 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "319"
+}, {
+  "from" : "CLJ",
+  "to" : "OTP",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "5007*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 20, 35 ],
+  "travelTimeMinutes" : 55,
+  "aircraft" : "73H"
+}, {
+  "from" : "ATL",
+  "to" : "VCE",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "7611*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 11, 5 ],
+  "travelTimeMinutes" : 565,
+  "aircraft" : "76W"
+}, {
+  "from" : "FCO",
+  "to" : "JFK",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "7615*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 10, 25 ],
+  "travelTimeMinutes" : 525,
+  "aircraft" : "333"
+}, {
+  "from" : "JFK",
+  "to" : "FCO",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "7615*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 10, 25 ],
+  "travelTimeMinutes" : 525,
+  "aircraft" : "333"
+}, {
+  "from" : "USM",
+  "to" : "BKK",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "9744*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 20, 55 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "319"
+}, {
+  "from" : "MSY",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1351",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 22, 15 ],
+  "travelTimeMinutes" : 215,
+  "aircraft" : "739"
+}, {
+  "from" : "MIA",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1380",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 37 ],
+  "travelTimeMinutes" : 117,
+  "aircraft" : "757"
+}, {
+  "from" : "FCO",
+  "to" : "JFK",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "152",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 10, 25 ],
+  "travelTimeMinutes" : 525,
+  "aircraft" : "333"
+}, {
+  "from" : "JFK",
+  "to" : "FCO",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "152",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 10, 25 ],
+  "travelTimeMinutes" : 525,
+  "aircraft" : "333"
+}, {
+  "from" : "ICN",
+  "to" : "MSP",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "170",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 17, 35 ],
+  "travelTimeMinutes" : 715,
+  "aircraft" : "359"
+}, {
+  "from" : "ATL",
+  "to" : "VCE",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "192",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 11, 5 ],
+  "travelTimeMinutes" : 565,
+  "aircraft" : "76W"
+}, {
+  "from" : "SEA",
+  "to" : "LHR",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "20",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 13, 15 ],
+  "travelTimeMinutes" : 575,
+  "aircraft" : "333"
+}, {
+  "from" : "MSP",
+  "to" : "JFK",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2208",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 23, 33 ],
+  "travelTimeMinutes" : 173,
+  "aircraft" : "319"
+}, {
+  "from" : "CVG",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2585",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 6 ],
+  "travelTimeMinutes" : 86,
+  "aircraft" : "739"
+}, {
+  "from" : "HSV",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2744",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 38 ],
+  "travelTimeMinutes" : 58,
+  "aircraft" : "717"
+}, {
+  "from" : "CHA",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3502",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 20, 31 ],
+  "travelTimeMinutes" : 51,
+  "aircraft" : "CR9"
+}, {
+  "from" : "CLE",
+  "to" : "LGA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4909",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 29 ],
+  "travelTimeMinutes" : 109,
+  "aircraft" : "CR9"
+}, {
+  "from" : "RIC",
+  "to" : "LGA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5363",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 3 ],
+  "travelTimeMinutes" : 83,
+  "aircraft" : "CR7"
+}, {
+  "from" : "ICN",
+  "to" : "LAX",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "9042*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 14, 50 ],
+  "travelTimeMinutes" : 670,
+  "aircraft" : "77W"
+}, {
+  "from" : "TAK",
+  "to" : "HND",
+  "airlineDesignator" : "GA",
+  "flightNumber" : "9501*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "321"
+}, {
+  "from" : "ICN",
+  "to" : "LAX",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "11",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 14, 50 ],
+  "travelTimeMinutes" : 670,
+  "aircraft" : "77W"
+}, {
+  "from" : "USN",
+  "to" : "GMP",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "1608",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 60,
+  "aircraft" : "223"
+}, {
+  "from" : "ICN",
+  "to" : "MSP",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "5033*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 17, 35 ],
+  "travelTimeMinutes" : 715,
+  "aircraft" : "359"
+}, {
+  "from" : "KPO",
+  "to" : "GMP",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "5140*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 60,
+  "aircraft" : "738"
+}, {
+  "from" : "HND",
+  "to" : "GMP",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "5712*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 22, 0 ],
+  "travelTimeMinutes" : 140,
+  "aircraft" : "788"
+}, {
+  "from" : "ICN",
+  "to" : "PNH",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "689",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 23, 10 ],
+  "travelTimeMinutes" : 330,
+  "aircraft" : "333"
+}, {
+  "from" : "FRA",
+  "to" : "ICN",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "906",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 14, 5 ],
+  "travelTimeMinutes" : 685,
+  "aircraft" : "789"
+}, {
+  "from" : "SEA",
+  "to" : "LHR",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "6021*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 13, 15 ],
+  "travelTimeMinutes" : 575,
+  "aircraft" : "333"
+}, {
+  "from" : "ATL",
+  "to" : "VCE",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "6073*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 11, 5 ],
+  "travelTimeMinutes" : 565,
+  "aircraft" : "76W"
+}, {
+  "from" : "FCO",
+  "to" : "JFK",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "6083*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 10, 25 ],
+  "travelTimeMinutes" : 525,
+  "aircraft" : "333"
+}, {
+  "from" : "JFK",
+  "to" : "FCO",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "6083*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 10, 25 ],
+  "travelTimeMinutes" : 525,
+  "aircraft" : "333"
+}, {
+  "from" : "XIY",
+  "to" : "WUH",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2462",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 20 ],
+  "travelTimeMinutes" : 100,
+  "aircraft" : "73L"
+}, {
+  "from" : "PVG",
+  "to" : "KHN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6367",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "320"
+}, {
+  "from" : "ZHA",
+  "to" : "KHN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8388*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 25 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "733"
+}, {
+  "from" : "ZUH",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8432*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 22, 10 ],
+  "travelTimeMinutes" : 150,
+  "aircraft" : "73H"
+}, {
+  "from" : "WUX",
+  "to" : "TPE",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8924*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 130,
+  "aircraft" : "738"
+}, {
+  "from" : "CLJ",
+  "to" : "OTP",
+  "airlineDesignator" : "RO",
+  "flightNumber" : "648*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 20, 35 ],
+  "travelTimeMinutes" : 55,
+  "aircraft" : "73H"
+}, {
+  "from" : "ASF",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1175",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 5 ],
+  "travelTimeMinutes" : 145,
+  "aircraft" : "73H"
+}, {
+  "from" : "JED",
+  "to" : "DMM",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1125",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 130,
+  "aircraft" : "321"
+}, {
+  "from" : "JED",
+  "to" : "SHW",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1888",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "320"
+}, {
+  "from" : "COK",
+  "to" : "RUH",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "775",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 22, 15 ],
+  "travelTimeMinutes" : 305,
+  "aircraft" : "333"
+}, {
+  "from" : "PQC",
+  "to" : "SGN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "1836",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 20, 50 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "321"
+}, {
+  "from" : "UIH",
+  "to" : "SGN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "6231",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 40 ],
+  "arrivalTime" : [ 21, 10 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "320"
+}, {
+  "from" : "AUS",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "444",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 41 ],
+  "arrivalTime" : [ 22, 55 ],
+  "travelTimeMinutes" : 134,
+  "aircraft" : "321"
+}, {
+  "from" : "MEX",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "580",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 41 ],
+  "arrivalTime" : [ 22, 25 ],
+  "travelTimeMinutes" : 224,
+  "aircraft" : "738"
+}, {
+  "from" : "TYS",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2512",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 42 ],
+  "arrivalTime" : [ 20, 52 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "717"
+}, {
+  "from" : "DCA",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2598",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 42 ],
+  "arrivalTime" : [ 21, 26 ],
+  "travelTimeMinutes" : 104,
+  "aircraft" : "320"
+}, {
+  "from" : "VER",
+  "to" : "MEX",
+  "airlineDesignator" : "AM",
+  "flightNumber" : "863",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 43 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 77,
+  "aircraft" : "E90"
+}, {
+  "from" : "SAT",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2247",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 44 ],
+  "arrivalTime" : [ 21, 12 ],
+  "travelTimeMinutes" : 148,
+  "aircraft" : "321"
+}, {
+  "from" : "RDU",
+  "to" : "MCO",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2308",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 44 ],
+  "arrivalTime" : [ 21, 29 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "319"
+}, {
+  "from" : "SAV",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2443",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 44 ],
+  "arrivalTime" : [ 20, 55 ],
+  "travelTimeMinutes" : 71,
+  "aircraft" : "320"
+}, {
+  "from" : "ATL",
+  "to" : "GEG",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2814",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 44 ],
+  "arrivalTime" : [ 21, 40 ],
+  "travelTimeMinutes" : 296,
+  "aircraft" : "739"
+}, {
+  "from" : "BOI",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3783",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 44 ],
+  "arrivalTime" : [ 21, 5 ],
+  "travelTimeMinutes" : 81,
+  "aircraft" : "E7W"
+}, {
+  "from" : "LAX",
+  "to" : "GEG",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4115",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 44 ],
+  "arrivalTime" : [ 22, 28 ],
+  "travelTimeMinutes" : 164,
+  "aircraft" : "E7W"
+}, {
+  "from" : "FNA",
+  "to" : "CKY",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "596",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 20, 25 ],
+  "travelTimeMinutes" : 40,
+  "aircraft" : "332"
+}, {
+  "from" : "MSP",
+  "to" : "AMS",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "8956*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 10, 50 ],
+  "travelTimeMinutes" : 485,
+  "aircraft" : "339"
+}, {
+  "from" : "OMR",
+  "to" : "OTP",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "5036*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 21, 5 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "AT7"
+}, {
+  "from" : "BKK",
+  "to" : "HKT",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "9715*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 21, 10 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "320"
+}, {
+  "from" : "DTW",
+  "to" : "DFW",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1341",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 21, 39 ],
+  "travelTimeMinutes" : 174,
+  "aircraft" : "319"
+}, {
+  "from" : "DTW",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1583",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 21, 46 ],
+  "travelTimeMinutes" : 241,
+  "aircraft" : "321"
+}, {
+  "from" : "MSP",
+  "to" : "AMS",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "162",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 10, 50 ],
+  "travelTimeMinutes" : 485,
+  "aircraft" : "339"
+}, {
+  "from" : "DTW",
+  "to" : "MSP",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1629",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 20, 40 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "739"
+}, {
+  "from" : "RIC",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1717",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "757"
+}, {
+  "from" : "MCO",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2274",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 21, 17 ],
+  "travelTimeMinutes" : 92,
+  "aircraft" : "757"
+}, {
+  "from" : "DTW",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2489",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 125,
+  "aircraft" : "739"
+}, {
+  "from" : "LGA",
+  "to" : "MCI",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5441",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 22, 14 ],
+  "travelTimeMinutes" : 209,
+  "aircraft" : "CR9"
+}, {
+  "from" : "BOS",
+  "to" : "BNA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5743",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 190,
+  "aircraft" : "E75"
+}, {
+  "from" : "LGA",
+  "to" : "DFW",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "840",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 22, 52 ],
+  "travelTimeMinutes" : 247,
+  "aircraft" : "221"
+}, {
+  "from" : "ICN",
+  "to" : "HKG",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "607",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 22, 30 ],
+  "travelTimeMinutes" : 225,
+  "aircraft" : "789"
+}, {
+  "from" : "BCN",
+  "to" : "AMS",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "1676",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 22, 0 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "73H"
+}, {
+  "from" : "MSP",
+  "to" : "AMS",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "6058*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 10, 50 ],
+  "travelTimeMinutes" : 485,
+  "aircraft" : "339"
+}, {
+  "from" : "KWE",
+  "to" : "FOC",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8482",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 130,
+  "aircraft" : "738"
+}, {
+  "from" : "KWE",
+  "to" : "JJN",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8776",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 21, 45 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "738"
+}, {
+  "from" : "YNZ",
+  "to" : "XIY",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2178",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 22, 5 ],
+  "travelTimeMinutes" : 140,
+  "aircraft" : "319"
+}, {
+  "from" : "HGH",
+  "to" : "XIY",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2224",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 22, 20 ],
+  "travelTimeMinutes" : 155,
+  "aircraft" : "321"
+}, {
+  "from" : "XIY",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2231",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 130,
+  "aircraft" : "321"
+}, {
+  "from" : "CAN",
+  "to" : "LHW",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2306",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 22, 50 ],
+  "travelTimeMinutes" : 185,
+  "aircraft" : "320"
+}, {
+  "from" : "SHS",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2536",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "73H"
+}, {
+  "from" : "DLC",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5622",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 21, 45 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "319"
+}, {
+  "from" : "PVG",
+  "to" : "DLC",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5622",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 21, 45 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "319"
+}, {
+  "from" : "PVG",
+  "to" : "LHW",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6801",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 22, 55 ],
+  "travelTimeMinutes" : 190,
+  "aircraft" : "320"
+}, {
+  "from" : "KMG",
+  "to" : "WUH",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "9641",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 22, 15 ],
+  "travelTimeMinutes" : 150,
+  "aircraft" : "73E"
+}, {
+  "from" : "TYN",
+  "to" : "DLC",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "9929",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "73H"
+}, {
+  "from" : "SOF",
+  "to" : "OTP",
+  "airlineDesignator" : "RO",
+  "flightNumber" : "298*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 20, 50 ],
+  "travelTimeMinutes" : 65,
+  "aircraft" : "AT7"
+}, {
+  "from" : "TSR",
+  "to" : "OTP",
+  "airlineDesignator" : "RO",
+  "flightNumber" : "608*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 20, 45 ],
+  "travelTimeMinutes" : 60,
+  "aircraft" : "73H"
+}, {
+  "from" : "OMR",
+  "to" : "OTP",
+  "airlineDesignator" : "RO",
+  "flightNumber" : "628*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 21, 5 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "AT7"
+}, {
+  "from" : "MRV",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1303",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 22, 15 ],
+  "travelTimeMinutes" : 150,
+  "aircraft" : "320"
+}, {
+  "from" : "AER",
+  "to" : "LED",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "6562",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 22, 50 ],
+  "travelTimeMinutes" : 185,
+  "aircraft" : "73H"
+}, {
+  "from" : "LED",
+  "to" : "AER",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "6562",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 22, 50 ],
+  "travelTimeMinutes" : 185,
+  "aircraft" : "73H"
+}, {
+  "from" : "JED",
+  "to" : "CAI",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "302",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 22, 55 ],
+  "travelTimeMinutes" : 130,
+  "aircraft" : "333"
+}, {
+  "from" : "HBE",
+  "to" : "JED",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "410",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 23, 10 ],
+  "travelTimeMinutes" : 145,
+  "aircraft" : "321"
+}, {
+  "from" : "HAN",
+  "to" : "HUI",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "1547",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 45 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "321"
+}, {
+  "from" : "CLE",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "685",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 47 ],
+  "arrivalTime" : [ 21, 34 ],
+  "travelTimeMinutes" : 107,
+  "aircraft" : "321"
+}, {
+  "from" : "TPA",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1249",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 48 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 87,
+  "aircraft" : "757"
+}, {
+  "from" : "MCO",
+  "to" : "DTW",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1746",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 48 ],
+  "arrivalTime" : [ 22, 24 ],
+  "travelTimeMinutes" : 156,
+  "aircraft" : "739"
+}, {
+  "from" : "AGU",
+  "to" : "MEX",
+  "airlineDesignator" : "AM",
+  "flightNumber" : "2585",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 49 ],
+  "arrivalTime" : [ 21, 10 ],
+  "travelTimeMinutes" : 81,
+  "aircraft" : "E90"
+}, {
+  "from" : "ATL",
+  "to" : "SRQ",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2627",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 49 ],
+  "arrivalTime" : [ 21, 20 ],
+  "travelTimeMinutes" : 91,
+  "aircraft" : "757"
+}, {
+  "from" : "LGA",
+  "to" : "MKE",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5386",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 49 ],
+  "arrivalTime" : [ 21, 23 ],
+  "travelTimeMinutes" : 154,
+  "aircraft" : "CR9"
+}, {
+  "from" : "ATL",
+  "to" : "SLC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "545",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 49 ],
+  "arrivalTime" : [ 21, 56 ],
+  "travelTimeMinutes" : 247,
+  "aircraft" : "753"
+}, {
+  "from" : "EWR",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "962",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 49 ],
+  "arrivalTime" : [ 22, 11 ],
+  "travelTimeMinutes" : 142,
+  "aircraft" : "738"
+}, {
+  "from" : "JFK",
+  "to" : "ORY",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "19",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 9, 30 ],
+  "travelTimeMinutes" : 460,
+  "aircraft" : "772"
+}, {
+  "from" : "JFK",
+  "to" : "FRA",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "3647*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 9, 50 ],
+  "travelTimeMinutes" : 480,
+  "aircraft" : "332"
+}, {
+  "from" : "ATL",
+  "to" : "FCO",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "3671*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 11, 0 ],
+  "travelTimeMinutes" : 550,
+  "aircraft" : "359"
+}, {
+  "from" : "JFK",
+  "to" : "AMS",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "5590*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 9, 15 ],
+  "travelTimeMinutes" : 445,
+  "aircraft" : "339"
+}, {
+  "from" : "MTY",
+  "to" : "MEX",
+  "airlineDesignator" : "AM",
+  "flightNumber" : "955",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 21, 45 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "7M9"
+}, {
+  "from" : "JUJ",
+  "to" : "AEP",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "1473",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 125,
+  "aircraft" : "738"
+}, {
+  "from" : "LIN",
+  "to" : "AMS",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "113*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 21, 25 ],
+  "travelTimeMinutes" : 95,
+  "aircraft" : "319"
+}, {
+  "from" : "IAS",
+  "to" : "OTP",
+  "airlineDesignator" : "AZ",
+  "flightNumber" : "5014*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "AT7"
+}, {
+  "from" : "PVG",
+  "to" : "TPE",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "504",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "77W"
+}, {
+  "from" : "JFK",
+  "to" : "FRA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "106",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 9, 50 ],
+  "travelTimeMinutes" : 480,
+  "aircraft" : "332"
+}, {
+  "from" : "SFO",
+  "to" : "LAX",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1224",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 21, 18 ],
+  "travelTimeMinutes" : 88,
+  "aircraft" : "319"
+}, {
+  "from" : "MSP",
+  "to" : "JAX",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1529",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 23, 44 ],
+  "travelTimeMinutes" : 174,
+  "aircraft" : "319"
+}, {
+  "from" : "MSP",
+  "to" : "DTW",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2168",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 22, 34 ],
+  "travelTimeMinutes" : 104,
+  "aircraft" : "321"
+}, {
+  "from" : "MCO",
+  "to" : "CVG",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2240",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 21, 59 ],
+  "travelTimeMinutes" : 129,
+  "aircraft" : "738"
+}, {
+  "from" : "ATL",
+  "to" : "OMA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2295",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 21, 9 ],
+  "travelTimeMinutes" : 139,
+  "aircraft" : "320"
+}, {
+  "from" : "MSP",
+  "to" : "IAH",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2346",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 22, 55 ],
+  "travelTimeMinutes" : 185,
+  "aircraft" : "319"
+}, {
+  "from" : "ATL",
+  "to" : "MKE",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2505",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 20, 51 ],
+  "travelTimeMinutes" : 121,
+  "aircraft" : "321"
+}, {
+  "from" : "MSP",
+  "to" : "SAT",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2515",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 22, 40 ],
+  "travelTimeMinutes" : 170,
+  "aircraft" : "319"
+}, {
+  "from" : "SEA",
+  "to" : "SNA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2523",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 22, 27 ],
+  "travelTimeMinutes" : 157,
+  "aircraft" : "221"
+}, {
+  "from" : "CMH",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2780",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 21, 25 ],
+  "travelTimeMinutes" : 95,
+  "aircraft" : "739"
+}, {
+  "from" : "MSP",
+  "to" : "MEM",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3545",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 22, 7 ],
+  "travelTimeMinutes" : 137,
+  "aircraft" : "E7W"
+}, {
+  "from" : "MSP",
+  "to" : "IAD",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3602",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 23, 19 ],
+  "travelTimeMinutes" : 149,
+  "aircraft" : "CR9"
+}, {
+  "from" : "MSP",
+  "to" : "FWA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3648",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 22, 28 ],
+  "travelTimeMinutes" : 98,
+  "aircraft" : "CR9"
+}, {
+  "from" : "LAX",
+  "to" : "BOI",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3712",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 22, 59 ],
+  "travelTimeMinutes" : 129,
+  "aircraft" : "E7W"
+}, {
+  "from" : "SEA",
+  "to" : "ONT",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3907",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 22, 26 ],
+  "travelTimeMinutes" : 156,
+  "aircraft" : "E7W"
+}, {
+  "from" : "DTW",
+  "to" : "OMA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3918",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 21, 2 ],
+  "travelTimeMinutes" : 132,
+  "aircraft" : "CR9"
+}, {
+  "from" : "JFK",
+  "to" : "AMS",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "48",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 9, 15 ],
+  "travelTimeMinutes" : 445,
+  "aircraft" : "339"
+}, {
+  "from" : "DTW",
+  "to" : "JFK",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4994",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 21, 45 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "CR9"
+}, {
+  "from" : "MSP",
+  "to" : "CWA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5099",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 20, 49 ],
+  "travelTimeMinutes" : 59,
+  "aircraft" : "CRJ"
+}, {
+  "from" : "MSP",
+  "to" : "ATW",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5150",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 21, 1 ],
+  "travelTimeMinutes" : 71,
+  "aircraft" : "CRJ"
+}, {
+  "from" : "ATL",
+  "to" : "FCO",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "66",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 11, 0 ],
+  "travelTimeMinutes" : 550,
+  "aircraft" : "359"
+}, {
+  "from" : "JFK",
+  "to" : "ORY",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "8276*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 9, 30 ],
+  "travelTimeMinutes" : 460,
+  "aircraft" : "772"
+}, {
+  "from" : "MSP",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "907",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 23, 19 ],
+  "travelTimeMinutes" : 149,
+  "aircraft" : "321"
+}, {
+  "from" : "GMP",
+  "to" : "CJU",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "1272",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "333"
+}, {
+  "from" : "ICN",
+  "to" : "SGN",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "683",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 23, 15 ],
+  "travelTimeMinutes" : 325,
+  "aircraft" : "333"
+}, {
+  "from" : "JFK",
+  "to" : "AMS",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "6007*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 9, 15 ],
+  "travelTimeMinutes" : 445,
+  "aircraft" : "339"
+}, {
+  "from" : "ATL",
+  "to" : "FCO",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "6061*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 11, 0 ],
+  "travelTimeMinutes" : 550,
+  "aircraft" : "359"
+}, {
+  "from" : "JFK",
+  "to" : "FRA",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "6106*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 9, 50 ],
+  "travelTimeMinutes" : 480,
+  "aircraft" : "332"
+}, {
+  "from" : "FOC",
+  "to" : "DLC",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8057",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 0, 5 ],
+  "travelTimeMinutes" : 255,
+  "aircraft" : "738"
+}, {
+  "from" : "WUH",
+  "to" : "SYX",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2527",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 22, 30 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "73H"
+}, {
+  "from" : "BAR",
+  "to" : "WUH",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2648",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 22, 20 ],
+  "travelTimeMinutes" : 150,
+  "aircraft" : "73E"
+}, {
+  "from" : "YBP",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5268",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 22, 45 ],
+  "travelTimeMinutes" : 175,
+  "aircraft" : "319"
+}, {
+  "from" : "TSN",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5440",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 125,
+  "aircraft" : "320"
+}, {
+  "from" : "TNA",
+  "to" : "HRB",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5448",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 22, 20 ],
+  "travelTimeMinutes" : 150,
+  "aircraft" : "320"
+}, {
+  "from" : "PVG",
+  "to" : "TPE",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8904*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "77W"
+}, {
+  "from" : "YIN",
+  "to" : "XIY",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "9024",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 23, 35 ],
+  "travelTimeMinutes" : 225,
+  "aircraft" : "320"
+}, {
+  "from" : "LHW",
+  "to" : "KMG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "9670",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 22, 5 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "73L"
+}, {
+  "from" : "IAS",
+  "to" : "OTP",
+  "airlineDesignator" : "RO",
+  "flightNumber" : "708*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "AT7"
+}, {
+  "from" : "SVO",
+  "to" : "PKC",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1734",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 13, 10 ],
+  "travelTimeMinutes" : 500,
+  "aircraft" : "77W"
+}, {
+  "from" : "ICN",
+  "to" : "SGN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "3401*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 23, 15 ],
+  "travelTimeMinutes" : 325,
+  "aircraft" : "333"
+}, {
+  "from" : "DAD",
+  "to" : "SGN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "6057",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 50 ],
+  "arrivalTime" : [ 21, 5 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "320"
+}, {
+  "from" : "LAX",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "303",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 51 ],
+  "arrivalTime" : [ 21, 39 ],
+  "travelTimeMinutes" : 288,
+  "aircraft" : "321"
+}, {
+  "from" : "MSP",
+  "to" : "LGA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1027",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 52 ],
+  "arrivalTime" : [ 23, 40 ],
+  "travelTimeMinutes" : 168,
+  "aircraft" : "321"
+}, {
+  "from" : "ATL",
+  "to" : "ELP",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "884",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 53 ],
+  "arrivalTime" : [ 21, 7 ],
+  "travelTimeMinutes" : 194,
+  "aircraft" : "739"
+}, {
+  "from" : "ATL",
+  "to" : "PNS",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "333",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 54 ],
+  "arrivalTime" : [ 20, 7 ],
+  "travelTimeMinutes" : 73,
+  "aircraft" : "739"
+}, {
+  "from" : "MSP",
+  "to" : "PIT",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4124",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 54 ],
+  "arrivalTime" : [ 23, 0 ],
+  "travelTimeMinutes" : 126,
+  "aircraft" : "E7W"
+}, {
+  "from" : "CDG",
+  "to" : "FRA",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "1819*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 20 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "E90"
+}, {
+  "from" : "FRA",
+  "to" : "CDG",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "1819*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 20 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "E90"
+}, {
+  "from" : "JFK",
+  "to" : "NCE",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "3593*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 10, 0 ],
+  "travelTimeMinutes" : 485,
+  "aircraft" : "764"
+}, {
+  "from" : "SLP",
+  "to" : "MEX",
+  "airlineDesignator" : "AM",
+  "flightNumber" : "2533",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "E90"
+}, {
+  "from" : "MSY",
+  "to" : "JFK",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1281",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 23, 55 ],
+  "travelTimeMinutes" : 180,
+  "aircraft" : "221"
+}, {
+  "from" : "MSP",
+  "to" : "BNA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1606",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 22, 4 ],
+  "travelTimeMinutes" : 129,
+  "aircraft" : "319"
+}, {
+  "from" : "DTW",
+  "to" : "IAH",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1613",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 180,
+  "aircraft" : "221"
+}, {
+  "from" : "IAH",
+  "to" : "DTW",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1613",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 180,
+  "aircraft" : "221"
+}, {
+  "from" : "FLL",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1743",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 47 ],
+  "travelTimeMinutes" : 112,
+  "aircraft" : "757"
+}, {
+  "from" : "GSP",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2245",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 20, 59 ],
+  "travelTimeMinutes" : 64,
+  "aircraft" : "717"
+}, {
+  "from" : "RDU",
+  "to" : "BOS",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2343",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 52 ],
+  "travelTimeMinutes" : 117,
+  "aircraft" : "221"
+}, {
+  "from" : "DTW",
+  "to" : "SAT",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2448",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 22, 11 ],
+  "travelTimeMinutes" : 196,
+  "aircraft" : "319"
+}, {
+  "from" : "LGA",
+  "to" : "TPA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2771",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 22, 59 ],
+  "travelTimeMinutes" : 184,
+  "aircraft" : "319"
+}, {
+  "from" : "JFK",
+  "to" : "NCE",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "28",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 10, 0 ],
+  "travelTimeMinutes" : 485,
+  "aircraft" : "764"
+}, {
+  "from" : "SDF",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2992",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 19 ],
+  "travelTimeMinutes" : 84,
+  "aircraft" : "717"
+}, {
+  "from" : "BOS",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "413",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 22, 32 ],
+  "travelTimeMinutes" : 157,
+  "aircraft" : "321"
+}, {
+  "from" : "MSP",
+  "to" : "HIB",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4257",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 20, 55 ],
+  "travelTimeMinutes" : 60,
+  "aircraft" : "CRJ"
+}, {
+  "from" : "ATL",
+  "to" : "PDX",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "652",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 22, 18 ],
+  "travelTimeMinutes" : 323,
+  "aircraft" : "739"
+}, {
+  "from" : "JFK",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "684",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 22, 37 ],
+  "travelTimeMinutes" : 162,
+  "aircraft" : "738"
+}, {
+  "from" : "HND",
+  "to" : "TAK",
+  "airlineDesignator" : "GA",
+  "flightNumber" : "9500*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 15 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "767"
+}, {
+  "from" : "ICN",
+  "to" : "BKK",
+  "airlineDesignator" : "KE",
+  "flightNumber" : "5065*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 23, 35 ],
+  "travelTimeMinutes" : 340,
+  "aircraft" : "738"
+}, {
+  "from" : "FCO",
+  "to" : "AMS",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "1608",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 22, 20 ],
+  "travelTimeMinutes" : 145,
+  "aircraft" : "73H"
+}, {
+  "from" : "VIE",
+  "to" : "AMS",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "1848",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 45 ],
+  "travelTimeMinutes" : 110,
+  "aircraft" : "73H"
+}, {
+  "from" : "LIM",
+  "to" : "AMS",
+  "airlineDesignator" : "KL",
+  "flightNumber" : "744",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 15, 10 ],
+  "travelTimeMinutes" : 735,
+  "aircraft" : "77W"
+}, {
+  "from" : "LHW",
+  "to" : "HGH",
+  "airlineDesignator" : "MF",
+  "flightNumber" : "8204",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 22, 35 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "738"
+}, {
+  "from" : "WUH",
+  "to" : "KMG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2482",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 22, 15 ],
+  "travelTimeMinutes" : 140,
+  "aircraft" : "73E"
+}, {
+  "from" : "KMG",
+  "to" : "NKG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "2756",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 23, 0 ],
+  "travelTimeMinutes" : 185,
+  "aircraft" : "320"
+}, {
+  "from" : "HFE",
+  "to" : "XMN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5170",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 40 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "320"
+}, {
+  "from" : "CTU",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5478",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 22, 35 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "789"
+}, {
+  "from" : "KMG",
+  "to" : "BSD",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5734",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 10 ],
+  "travelTimeMinutes" : 75,
+  "aircraft" : "737"
+}, {
+  "from" : "KMG",
+  "to" : "ZHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "5797",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 22, 0 ],
+  "travelTimeMinutes" : 125,
+  "aircraft" : "737"
+}, {
+  "from" : "HGH",
+  "to" : "KMG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6481",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 23, 20 ],
+  "travelTimeMinutes" : 205,
+  "aircraft" : "320"
+}, {
+  "from" : "HRB",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "6562",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 23, 15 ],
+  "travelTimeMinutes" : 200,
+  "aircraft" : "321"
+}, {
+  "from" : "SHA",
+  "to" : "CGO",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8502*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "73E"
+}, {
+  "from" : "CSX",
+  "to" : "SHA",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "8537*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "73L"
+}, {
+  "from" : "XIY",
+  "to" : "XNN",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "9959",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 95,
+  "aircraft" : "319"
+}, {
+  "from" : "DNH",
+  "to" : "LHW",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "9998",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 50 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "320"
+}, {
+  "from" : "OTP",
+  "to" : "TLV",
+  "airlineDesignator" : "RO",
+  "flightNumber" : "153*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 22, 30 ],
+  "travelTimeMinutes" : 155,
+  "aircraft" : "73W"
+}, {
+  "from" : "BRU",
+  "to" : "OTP",
+  "airlineDesignator" : "RO",
+  "flightNumber" : "374*",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 23, 35 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "73W"
+}, {
+  "from" : "SVO",
+  "to" : "LED",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "28",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 20 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "32B"
+}, {
+  "from" : "SVO",
+  "to" : "GDX",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "6289",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 11, 25 ],
+  "travelTimeMinutes" : 510,
+  "aircraft" : "77W"
+}, {
+  "from" : "TJM",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "6360",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 0 ],
+  "travelTimeMinutes" : 185,
+  "aircraft" : "SU9"
+}, {
+  "from" : "AKX",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "6530",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 20, 15 ],
+  "travelTimeMinutes" : 140,
+  "aircraft" : "SU9"
+}, {
+  "from" : "RUH",
+  "to" : "URY",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1293",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 55 ],
+  "travelTimeMinutes" : 120,
+  "aircraft" : "321"
+}, {
+  "from" : "RUH",
+  "to" : "BHH",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1733",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 20 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "321"
+}, {
+  "from" : "DLI",
+  "to" : "SGN",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "1387",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 20, 55 ],
+  "travelTimeMinutes" : 60,
+  "aircraft" : "321"
+}, {
+  "from" : "HAN",
+  "to" : "DAD",
+  "airlineDesignator" : "VN",
+  "flightNumber" : "185",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 55 ],
+  "arrivalTime" : [ 21, 20 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "321"
+}, {
+  "from" : "MSP",
+  "to" : "CLE",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3797",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 56 ],
+  "arrivalTime" : [ 22, 54 ],
+  "travelTimeMinutes" : 118,
+  "aircraft" : "E7W"
+}, {
+  "from" : "AUS",
+  "to" : "LAX",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "816",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 56 ],
+  "arrivalTime" : [ 21, 17 ],
+  "travelTimeMinutes" : 201,
+  "aircraft" : "321"
+}, {
+  "from" : "BNA",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2646",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 57 ],
+  "arrivalTime" : [ 20, 8 ],
+  "travelTimeMinutes" : 71,
+  "aircraft" : "757"
+}, {
+  "from" : "MSP",
+  "to" : "YUL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4749",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 57 ],
+  "arrivalTime" : [ 23, 22 ],
+  "travelTimeMinutes" : 145,
+  "aircraft" : "CR9"
+}, {
+  "from" : "LGA",
+  "to" : "BNA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5491",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 57 ],
+  "arrivalTime" : [ 23, 25 ],
+  "travelTimeMinutes" : 148,
+  "aircraft" : "CR9"
+}, {
+  "from" : "PBI",
+  "to" : "JFK",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "893",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 57 ],
+  "arrivalTime" : [ 22, 55 ],
+  "travelTimeMinutes" : 178,
+  "aircraft" : "319"
+}, {
+  "from" : "BWI",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1093",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 58 ],
+  "arrivalTime" : [ 21, 47 ],
+  "travelTimeMinutes" : 109,
+  "aircraft" : "739"
+}, {
+  "from" : "MSP",
+  "to" : "DFW",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2097",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 58 ],
+  "arrivalTime" : [ 22, 29 ],
+  "travelTimeMinutes" : 151,
+  "aircraft" : "221"
+}, {
+  "from" : "MSP",
+  "to" : "RDU",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "387",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 58 ],
+  "arrivalTime" : [ 23, 28 ],
+  "travelTimeMinutes" : 150,
+  "aircraft" : "319"
+}, {
+  "from" : "FLL",
+  "to" : "LGA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1059",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 23, 6 ],
+  "travelTimeMinutes" : 187,
+  "aircraft" : "738"
+}, {
+  "from" : "SEA",
+  "to" : "SMF",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1128",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 21, 44 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "221"
+}, {
+  "from" : "TPA",
+  "to" : "JFK",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1174",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 22, 51 ],
+  "travelTimeMinutes" : 172,
+  "aircraft" : "319"
+}, {
+  "from" : "IND",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1230",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 21, 37 ],
+  "travelTimeMinutes" : 98,
+  "aircraft" : "739"
+}, {
+  "from" : "RDU",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1387",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 21, 27 ],
+  "travelTimeMinutes" : 88,
+  "aircraft" : "321"
+}, {
+  "from" : "JFK",
+  "to" : "DEN",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1492",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 22, 48 ],
+  "travelTimeMinutes" : 289,
+  "aircraft" : "739"
+}, {
+  "from" : "CMH",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1545",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 21, 30 ],
+  "travelTimeMinutes" : 91,
+  "aircraft" : "738"
+}, {
+  "from" : "LEX",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1640",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 21, 22 ],
+  "travelTimeMinutes" : 83,
+  "aircraft" : "717"
+}, {
+  "from" : "ATL",
+  "to" : "SJC",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "1742",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 22, 8 ],
+  "travelTimeMinutes" : 309,
+  "aircraft" : "739"
+}, {
+  "from" : "ATL",
+  "to" : "ABQ",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2059",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 21, 22 ],
+  "travelTimeMinutes" : 203,
+  "aircraft" : "321"
+}, {
+  "from" : "MSP",
+  "to" : "BDL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2149",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 23, 33 ],
+  "travelTimeMinutes" : 154,
+  "aircraft" : "738"
+}, {
+  "from" : "LGA",
+  "to" : "MCO",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2155",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 22, 58 ],
+  "travelTimeMinutes" : 179,
+  "aircraft" : "321"
+}, {
+  "from" : "SEA",
+  "to" : "PHX",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2323",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 22, 43 ],
+  "travelTimeMinutes" : 164,
+  "aircraft" : "738"
+}, {
+  "from" : "GSO",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2367",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 21, 25 ],
+  "travelTimeMinutes" : 86,
+  "aircraft" : "717"
+}, {
+  "from" : "CVG",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2477",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 21, 32 ],
+  "travelTimeMinutes" : 93,
+  "aircraft" : "738"
+}, {
+  "from" : "RDU",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2529",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 21, 23 ],
+  "travelTimeMinutes" : 84,
+  "aircraft" : "739"
+}, {
+  "from" : "LGA",
+  "to" : "FLL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2559",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 23, 14 ],
+  "travelTimeMinutes" : 195,
+  "aircraft" : "738"
+}, {
+  "from" : "DTW",
+  "to" : "MEM",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2644",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 20, 57 ],
+  "travelTimeMinutes" : 118,
+  "aircraft" : "717"
+}, {
+  "from" : "PIT",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2662",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 21, 42 ],
+  "travelTimeMinutes" : 103,
+  "aircraft" : "320"
+}, {
+  "from" : "BDL",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2679",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 22, 16 ],
+  "travelTimeMinutes" : 137,
+  "aircraft" : "738"
+}, {
+  "from" : "IAH",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2882",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 21, 8 ],
+  "travelTimeMinutes" : 129,
+  "aircraft" : "321"
+}, {
+  "from" : "TPA",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2896",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 21, 37 ],
+  "travelTimeMinutes" : 98,
+  "aircraft" : "757"
+}, {
+  "from" : "MSP",
+  "to" : "EWR",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2919",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 23, 33 ],
+  "travelTimeMinutes" : 154,
+  "aircraft" : "717"
+}, {
+  "from" : "SEA",
+  "to" : "LAS",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "2987",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 22, 29 ],
+  "travelTimeMinutes" : 150,
+  "aircraft" : "738"
+}, {
+  "from" : "LGA",
+  "to" : "MIA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "329",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 23, 12 ],
+  "travelTimeMinutes" : 193,
+  "aircraft" : "738"
+}, {
+  "from" : "DEN",
+  "to" : "SEA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3530",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 22, 4 ],
+  "travelTimeMinutes" : 185,
+  "aircraft" : "E7W"
+}, {
+  "from" : "SEA",
+  "to" : "PDX",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3855",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 20, 53 ],
+  "travelTimeMinutes" : 54,
+  "aircraft" : "E7W"
+}, {
+  "from" : "MSP",
+  "to" : "CMH",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "3885",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 22, 53 ],
+  "travelTimeMinutes" : 114,
+  "aircraft" : "E7W"
+}, {
+  "from" : "YVR",
+  "to" : "SEA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4058",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 21, 5 ],
+  "travelTimeMinutes" : 66,
+  "aircraft" : "E7W"
+}, {
+  "from" : "SEA",
+  "to" : "GEG",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4146",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 21, 6 ],
+  "travelTimeMinutes" : 67,
+  "aircraft" : "E7W"
+}, {
+  "from" : "ORD",
+  "to" : "ATL",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "463",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 23, 0 ],
+  "travelTimeMinutes" : 121,
+  "aircraft" : "321"
+}, {
+  "from" : "JFK",
+  "to" : "CLT",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4673",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 22, 27 ],
+  "travelTimeMinutes" : 148,
+  "aircraft" : "CR9"
+}, {
+  "from" : "SYR",
+  "to" : "LGA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4763",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 21, 19 ],
+  "travelTimeMinutes" : 80,
+  "aircraft" : "CR7"
+}, {
+  "from" : "CLT",
+  "to" : "JFK",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "4986",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 22, 10 ],
+  "travelTimeMinutes" : 131,
+  "aircraft" : "CR9"
+}, {
+  "from" : "MSP",
+  "to" : "CVG",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5331",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 22, 50 ],
+  "travelTimeMinutes" : 111,
+  "aircraft" : "CR9"
+}, {
+  "from" : "BOS",
+  "to" : "CLT",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "5861",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 22, 34 ],
+  "travelTimeMinutes" : 155,
+  "aircraft" : "E75"
+}, {
+  "from" : "MIA",
+  "to" : "LGA",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "949",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 23, 8 ],
+  "travelTimeMinutes" : 189,
+  "aircraft" : "738"
+}, {
+  "from" : "BOS",
+  "to" : "CVG",
+  "airlineDesignator" : "DL",
+  "flightNumber" : "952",
+  "departureDate" : [ 2022, 10, 28 ],
+  "departureTime" : [ 19, 59 ],
+  "arrivalTime" : [ 22, 21 ],
+  "travelTimeMinutes" : 142,
+  "aircraft" : "221"
+} ]

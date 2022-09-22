@@ -1,0 +1,251 @@
+[ {
+  "from" : "AMM",
+  "to" : "OTP",
+  "airlineDesignator" : "RO",
+  "flightNumber" : "188*",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 0 ],
+  "arrivalTime" : [ 6, 55 ],
+  "travelTimeMinutes" : 175,
+  "aircraft" : "318"
+}, {
+  "from" : "RUH",
+  "to" : "HYD",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "750",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 0 ],
+  "arrivalTime" : [ 10, 50 ],
+  "travelTimeMinutes" : 260,
+  "aircraft" : "333"
+}, {
+  "from" : "CAI",
+  "to" : "OTP",
+  "airlineDesignator" : "RO",
+  "flightNumber" : "102*",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 5 ],
+  "arrivalTime" : [ 6, 55 ],
+  "travelTimeMinutes" : 170,
+  "aircraft" : "73W"
+}, {
+  "from" : "RUH",
+  "to" : "KHI",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "708",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 10 ],
+  "arrivalTime" : [ 8, 50 ],
+  "travelTimeMinutes" : 160,
+  "aircraft" : "773"
+}, {
+  "from" : "AEP",
+  "to" : "GIG",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "7728*",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 15 ],
+  "arrivalTime" : [ 7, 10 ],
+  "travelTimeMinutes" : 175,
+  "aircraft" : "738"
+}, {
+  "from" : "NBO",
+  "to" : "CAI",
+  "airlineDesignator" : "KQ",
+  "flightNumber" : "4700*",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 20 ],
+  "arrivalTime" : [ 8, 0 ],
+  "travelTimeMinutes" : 280,
+  "aircraft" : "738"
+}, {
+  "from" : "MBA",
+  "to" : "NBO",
+  "airlineDesignator" : "KQ",
+  "flightNumber" : "625",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 20 ],
+  "arrivalTime" : [ 5, 20 ],
+  "travelTimeMinutes" : 60,
+  "aircraft" : "E90"
+}, {
+  "from" : "RUH",
+  "to" : "RAE",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1231",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 25 ],
+  "arrivalTime" : [ 6, 10 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "320"
+}, {
+  "from" : "JED",
+  "to" : "GIZ",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1762",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 25 ],
+  "arrivalTime" : [ 5, 50 ],
+  "travelTimeMinutes" : 85,
+  "aircraft" : "320"
+}, {
+  "from" : "JED",
+  "to" : "LHE",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "734",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 25 ],
+  "arrivalTime" : [ 10, 50 ],
+  "travelTimeMinutes" : 265,
+  "aircraft" : "773"
+}, {
+  "from" : "EZE",
+  "to" : "JUJ",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "1470",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 30 ],
+  "arrivalTime" : [ 6, 45 ],
+  "travelTimeMinutes" : 135,
+  "aircraft" : "738"
+}, {
+  "from" : "SGC",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1511",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 30 ],
+  "arrivalTime" : [ 6, 5 ],
+  "travelTimeMinutes" : 215,
+  "aircraft" : "32B"
+}, {
+  "from" : "JED",
+  "to" : "AHB",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1640",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 30 ],
+  "arrivalTime" : [ 5, 40 ],
+  "travelTimeMinutes" : 70,
+  "aircraft" : "320"
+}, {
+  "from" : "DXB",
+  "to" : "JED",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "599",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 30 ],
+  "arrivalTime" : [ 6, 45 ],
+  "travelTimeMinutes" : 195,
+  "aircraft" : "320"
+}, {
+  "from" : "JED",
+  "to" : "DXB",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "599",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 30 ],
+  "arrivalTime" : [ 6, 45 ],
+  "travelTimeMinutes" : 195,
+  "aircraft" : "320"
+}, {
+  "from" : "RUH",
+  "to" : "AUH",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "6248*",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 30 ],
+  "arrivalTime" : [ 7, 10 ],
+  "travelTimeMinutes" : 100,
+  "aircraft" : "321"
+}, {
+  "from" : "AEP",
+  "to" : "FTE",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "1862",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 35 ],
+  "arrivalTime" : [ 7, 50 ],
+  "travelTimeMinutes" : 195,
+  "aircraft" : "738"
+}, {
+  "from" : "USH",
+  "to" : "AEP",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "1862",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 35 ],
+  "arrivalTime" : [ 10, 10 ],
+  "travelTimeMinutes" : 335,
+  "aircraft" : "738"
+}, {
+  "from" : "RUH",
+  "to" : "AJF",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1395",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 40 ],
+  "arrivalTime" : [ 6, 25 ],
+  "travelTimeMinutes" : 105,
+  "aircraft" : "321"
+}, {
+  "from" : "AEP",
+  "to" : "MDZ",
+  "airlineDesignator" : "AR",
+  "flightNumber" : "1416",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 45 ],
+  "arrivalTime" : [ 6, 40 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "738"
+}, {
+  "from" : "UPG",
+  "to" : "DJJ",
+  "airlineDesignator" : "GA",
+  "flightNumber" : "654",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 45 ],
+  "arrivalTime" : [ 10, 40 ],
+  "travelTimeMinutes" : 295,
+  "aircraft" : "738"
+}, {
+  "from" : "LED",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "53",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 45 ],
+  "arrivalTime" : [ 6, 20 ],
+  "travelTimeMinutes" : 95,
+  "aircraft" : "32A"
+}, {
+  "from" : "JED",
+  "to" : "TUU",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1563",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 50 ],
+  "arrivalTime" : [ 6, 20 ],
+  "travelTimeMinutes" : 90,
+  "aircraft" : "320"
+}, {
+  "from" : "MNL",
+  "to" : "PVG",
+  "airlineDesignator" : "MU",
+  "flightNumber" : "212",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 55 ],
+  "arrivalTime" : [ 8, 30 ],
+  "travelTimeMinutes" : 215,
+  "aircraft" : "321"
+}, {
+  "from" : "RUH",
+  "to" : "GIZ",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1779",
+  "departureDate" : [ 2022, 12, 12 ],
+  "departureTime" : [ 4, 55 ],
+  "arrivalTime" : [ 6, 50 ],
+  "travelTimeMinutes" : 115,
+  "aircraft" : "320"
+} ]
