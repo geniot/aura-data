@@ -1,21 +1,21 @@
 [ {
-  "from" : "AAQ",
-  "to" : "SVO",
-  "airlineDesignator" : "SU",
-  "flightNumber" : "1145",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 55 ],
-  "arrivalTime" : [ 5, 5 ],
-  "aircraft" : "32N"
-}, {
-  "from" : "AUH",
+  "from" : "ICN",
   "to" : "CDG",
   "airlineDesignator" : "AF",
-  "flightNumber" : "3803",
+  "flightNumber" : "271",
   "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 15 ],
-  "arrivalTime" : [ 7, 45 ],
+  "departureTime" : [ 2, 0 ],
+  "arrivalTime" : [ 9, 10 ],
   "aircraft" : "77W"
+}, {
+  "from" : "SIN",
+  "to" : "TPE",
+  "airlineDesignator" : "CI",
+  "flightNumber" : "756",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 0 ],
+  "arrivalTime" : [ 6, 55 ],
+  "aircraft" : "333"
 }, {
   "from" : "BEY",
   "to" : "DOH",
@@ -26,59 +26,14 @@
   "arrivalTime" : [ 5, 30 ],
   "aircraft" : "359"
 }, {
-  "from" : "BOM",
-  "to" : "CDG",
-  "airlineDesignator" : "AF",
-  "flightNumber" : "217",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 10 ],
-  "arrivalTime" : [ 8, 10 ],
-  "aircraft" : "359"
-}, {
-  "from" : "CGK",
-  "to" : "MDC",
-  "airlineDesignator" : "GA",
-  "flightNumber" : "600",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 45 ],
-  "arrivalTime" : [ 7, 10 ],
-  "aircraft" : "738"
-}, {
-  "from" : "GIZ",
-  "to" : "RUH",
-  "airlineDesignator" : "SV",
-  "flightNumber" : "1800",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 10 ],
-  "arrivalTime" : [ 4, 0 ],
-  "aircraft" : "320"
-}, {
-  "from" : "GYD",
-  "to" : "SVO",
+  "from" : "SVO",
+  "to" : "KGF",
   "airlineDesignator" : "SU",
-  "flightNumber" : "6602",
+  "flightNumber" : "6533",
   "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 50 ],
-  "arrivalTime" : [ 5, 30 ],
+  "departureTime" : [ 2, 5 ],
+  "arrivalTime" : [ 8, 30 ],
   "aircraft" : "SU9"
-}, {
-  "from" : "ICN",
-  "to" : "CDG",
-  "airlineDesignator" : "AF",
-  "flightNumber" : "271",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 0 ],
-  "arrivalTime" : [ 9, 10 ],
-  "aircraft" : "77W"
-}, {
-  "from" : "JED",
-  "to" : "KUL",
-  "airlineDesignator" : "KQ",
-  "flightNumber" : "5760",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 10 ],
-  "arrivalTime" : [ 16, 5 ],
-  "aircraft" : "787"
 }, {
   "from" : "JED",
   "to" : "ELQ",
@@ -89,21 +44,30 @@
   "arrivalTime" : [ 3, 20 ],
   "aircraft" : "320"
 }, {
-  "from" : "JED",
-  "to" : "TUU",
-  "airlineDesignator" : "SV",
-  "flightNumber" : "1563",
+  "from" : "BOM",
+  "to" : "CDG",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "217",
   "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 20 ],
-  "arrivalTime" : [ 3, 45 ],
-  "aircraft" : "320"
+  "departureTime" : [ 2, 10 ],
+  "arrivalTime" : [ 8, 10 ],
+  "aircraft" : "359"
 }, {
   "from" : "JED",
-  "to" : "GIZ",
-  "airlineDesignator" : "SV",
-  "flightNumber" : "1781",
+  "to" : "KUL",
+  "airlineDesignator" : "KQ",
+  "flightNumber" : "5760",
   "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 35 ],
+  "departureTime" : [ 2, 10 ],
+  "arrivalTime" : [ 16, 5 ],
+  "aircraft" : "787"
+}, {
+  "from" : "GIZ",
+  "to" : "RUH",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1800",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 10 ],
   "arrivalTime" : [ 4, 0 ],
   "aircraft" : "320"
 }, {
@@ -116,131 +80,14 @@
   "arrivalTime" : [ 16, 5 ],
   "aircraft" : "787"
 }, {
-  "from" : "KRR",
-  "to" : "SVO",
-  "airlineDesignator" : "SU",
-  "flightNumber" : "1113",
+  "from" : "AUH",
+  "to" : "CDG",
+  "airlineDesignator" : "AF",
+  "flightNumber" : "3803",
   "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 55 ],
-  "arrivalTime" : [ 5, 15 ],
-  "aircraft" : "73H"
-}, {
-  "from" : "KUL",
-  "to" : "JED",
-  "airlineDesignator" : "KQ",
-  "flightNumber" : "5881",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 35 ],
-  "arrivalTime" : [ 6, 0 ],
-  "aircraft" : "787"
-}, {
-  "from" : "KUL",
-  "to" : "JED",
-  "airlineDesignator" : "SV",
-  "flightNumber" : "841",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 35 ],
-  "arrivalTime" : [ 6, 0 ],
-  "aircraft" : "787"
-}, {
-  "from" : "KZN",
-  "to" : "SVO",
-  "airlineDesignator" : "SU",
-  "flightNumber" : "1197",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 30 ],
-  "arrivalTime" : [ 4, 20 ],
-  "aircraft" : "32A"
-}, {
-  "from" : "LED",
-  "to" : "MMK",
-  "airlineDesignator" : "SU",
-  "flightNumber" : "6343",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 20 ],
-  "arrivalTime" : [ 4, 15 ],
-  "aircraft" : "SU9"
-}, {
-  "from" : "MCX",
-  "to" : "LED",
-  "airlineDesignator" : "SU",
-  "flightNumber" : "6068",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 20 ],
-  "arrivalTime" : [ 6, 20 ],
-  "aircraft" : "SU9"
-}, {
-  "from" : "MMK",
-  "to" : "SVO",
-  "airlineDesignator" : "SU",
-  "flightNumber" : "6488",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 50 ],
-  "arrivalTime" : [ 5, 10 ],
-  "aircraft" : "SU9"
-}, {
-  "from" : "RUH",
-  "to" : "LHR",
-  "airlineDesignator" : "SV",
-  "flightNumber" : "111",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 40 ],
-  "arrivalTime" : [ 7, 30 ],
-  "aircraft" : "773"
-}, {
-  "from" : "RUH",
-  "to" : "MED",
-  "airlineDesignator" : "SV",
-  "flightNumber" : "1469",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 55 ],
-  "arrivalTime" : [ 4, 25 ],
-  "aircraft" : "320"
-}, {
-  "from" : "RUH",
-  "to" : "MED",
-  "airlineDesignator" : "SV",
-  "flightNumber" : "1470",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 45 ],
-  "arrivalTime" : [ 4, 15 ],
-  "aircraft" : "330"
-}, {
-  "from" : "SCW",
-  "to" : "SVO",
-  "airlineDesignator" : "SU",
-  "flightNumber" : "1397",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 35 ],
-  "arrivalTime" : [ 4, 35 ],
-  "aircraft" : "32A"
-}, {
-  "from" : "SIN",
-  "to" : "TPE",
-  "airlineDesignator" : "CI",
-  "flightNumber" : "756",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 0 ],
-  "arrivalTime" : [ 6, 55 ],
-  "aircraft" : "333"
-}, {
-  "from" : "SIP",
-  "to" : "SVO",
-  "airlineDesignator" : "SU",
-  "flightNumber" : "1587",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 30 ],
-  "arrivalTime" : [ 5, 5 ],
-  "aircraft" : "32B"
-}, {
-  "from" : "SIP",
-  "to" : "SVO",
-  "airlineDesignator" : "SU",
-  "flightNumber" : "1627",
-  "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 25 ],
-  "arrivalTime" : [ 5, 0 ],
-  "aircraft" : "32A"
+  "departureTime" : [ 2, 15 ],
+  "arrivalTime" : [ 7, 45 ],
+  "aircraft" : "77W"
 }, {
   "from" : "SVO",
   "to" : "NUX",
@@ -251,6 +98,96 @@
   "arrivalTime" : [ 7, 50 ],
   "aircraft" : "32A"
 }, {
+  "from" : "MCX",
+  "to" : "LED",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "6068",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 20 ],
+  "arrivalTime" : [ 6, 20 ],
+  "aircraft" : "SU9"
+}, {
+  "from" : "LED",
+  "to" : "MMK",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "6343",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 20 ],
+  "arrivalTime" : [ 4, 15 ],
+  "aircraft" : "SU9"
+}, {
+  "from" : "JED",
+  "to" : "TUU",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1563",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 20 ],
+  "arrivalTime" : [ 3, 45 ],
+  "aircraft" : "320"
+}, {
+  "from" : "SIP",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1627",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 25 ],
+  "arrivalTime" : [ 5, 0 ],
+  "aircraft" : "32A"
+}, {
+  "from" : "KZN",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1197",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 30 ],
+  "arrivalTime" : [ 4, 20 ],
+  "aircraft" : "32A"
+}, {
+  "from" : "SIP",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1587",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 30 ],
+  "arrivalTime" : [ 5, 5 ],
+  "aircraft" : "32B"
+}, {
+  "from" : "KUL",
+  "to" : "JED",
+  "airlineDesignator" : "KQ",
+  "flightNumber" : "5881",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 35 ],
+  "arrivalTime" : [ 6, 0 ],
+  "aircraft" : "787"
+}, {
+  "from" : "SCW",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1397",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 35 ],
+  "arrivalTime" : [ 4, 35 ],
+  "aircraft" : "32A"
+}, {
+  "from" : "JED",
+  "to" : "GIZ",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1781",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 35 ],
+  "arrivalTime" : [ 4, 0 ],
+  "aircraft" : "320"
+}, {
+  "from" : "KUL",
+  "to" : "JED",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "841",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 35 ],
+  "arrivalTime" : [ 6, 0 ],
+  "aircraft" : "787"
+}, {
   "from" : "SVO",
   "to" : "KRR",
   "airlineDesignator" : "SU",
@@ -260,12 +197,75 @@
   "arrivalTime" : [ 5, 5 ],
   "aircraft" : "32A"
 }, {
-  "from" : "SVO",
-  "to" : "KGF",
-  "airlineDesignator" : "SU",
-  "flightNumber" : "6533",
+  "from" : "RUH",
+  "to" : "LHR",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "111",
   "departureDate" : [ 2023, 9, 1 ],
-  "departureTime" : [ 2, 5 ],
-  "arrivalTime" : [ 8, 30 ],
+  "departureTime" : [ 2, 40 ],
+  "arrivalTime" : [ 7, 30 ],
+  "aircraft" : "773"
+}, {
+  "from" : "CGK",
+  "to" : "MDC",
+  "airlineDesignator" : "GA",
+  "flightNumber" : "600",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 45 ],
+  "arrivalTime" : [ 7, 10 ],
+  "aircraft" : "738"
+}, {
+  "from" : "RUH",
+  "to" : "MED",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1470",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 45 ],
+  "arrivalTime" : [ 4, 15 ],
+  "aircraft" : "330"
+}, {
+  "from" : "MMK",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "6488",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 50 ],
+  "arrivalTime" : [ 5, 10 ],
   "aircraft" : "SU9"
+}, {
+  "from" : "GYD",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "6602",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 50 ],
+  "arrivalTime" : [ 5, 30 ],
+  "aircraft" : "SU9"
+}, {
+  "from" : "KRR",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1113",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 55 ],
+  "arrivalTime" : [ 5, 15 ],
+  "aircraft" : "73H"
+}, {
+  "from" : "AAQ",
+  "to" : "SVO",
+  "airlineDesignator" : "SU",
+  "flightNumber" : "1145",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 55 ],
+  "arrivalTime" : [ 5, 5 ],
+  "aircraft" : "32N"
+}, {
+  "from" : "RUH",
+  "to" : "MED",
+  "airlineDesignator" : "SV",
+  "flightNumber" : "1469",
+  "departureDate" : [ 2023, 9, 1 ],
+  "departureTime" : [ 2, 55 ],
+  "arrivalTime" : [ 4, 25 ],
+  "aircraft" : "320"
 } ]

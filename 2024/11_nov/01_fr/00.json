@@ -6,10 +6,7 @@
   "departureDate" : [ 2024, 11, 1 ],
   "departureTime" : [ 0, 5 ],
   "arrivalTime" : [ 5, 48 ],
-  "aircraft" : "73W",
-  "status" : {
-    "status" : "c"
-  }
+  "aircraft" : "73W"
 }, {
   "from" : "YYZ",
   "to" : "YYC",
